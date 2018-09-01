@@ -1,7 +1,7 @@
 city,description,population
 Kurunegala,seat of a first-order administrative division,28571.0
 Cucuta district,valley,0.0
-Bakassi district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Bakassi district,second-order administrative division,0
 Ressado Garcia,,
 Palin,second-order administrative division,0.0
 Tiuccia,populated place,0.0
@@ -11,9 +11,9 @@ Uribe,airport,0.0
 Boghni,populated place,54666.0
 Baraki,populated place,105402.0
 Sanliurfa,first-order administrative division,1801980.0
-Sari Pul district,"['seat of a first-order administrative division', 52121]","['seat of a first-order administrative division', 52121]"
+Sari Pul district,seat of a first-order administrative division,52121
 Sardheri,,
-Ishkamish district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Ishkamish district,second-order administrative division,0
 Garowe,airport,0.0
 Bolan,second-order administrative division,0.0
 Akora Khattak,populated place,23288.0
@@ -26,7 +26,7 @@ Faridkot,populated place,77450.0
 Zubair,seat of a second-order administrative division,122676.0
 Santo Nino,populated place,2040.0
 Skaikhan,,
-Muang Narathiwat district,"['second-order administrative division', 104051]","['second-order administrative division', 104051]"
+Muang Narathiwat district,second-order administrative division,104051
 Udayn,second-order administrative division,143578.0
 Masaya,seat of a first-order administrative division,130113.0
 La Mar district,hill,0.0
@@ -34,7 +34,7 @@ Panadura,populated place,33735.0
 Cork,seat of a second-order administrative division,190384.0
 Yondo,second-order administrative division,15097.0
 Bello,seat of a third-order administrative division,392939.0
-Kohsan district,"['seat of a second-order administrative division', 12087]","['seat of a second-order administrative division', 12087]"
+Kohsan district,seat of a second-order administrative division,12087
 Dowr,populated place,0.0
 Kayanza,seat of a first-order administrative division,19443.0
 Ciudad Juarez,seat of a second-order administrative division,1512354.0
@@ -63,9 +63,9 @@ San Francisco de Mosca,seat of a third-order administrative division,0.0
 Cincinnati,seat of a second-order administrative division,296943.0
 Deh Rahwod,,
 Azaz,seat of a second-order administrative division,66138.0
-South Garo Hills district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+South Garo Hills district,second-order administrative division,0
 Mankulam,locality,0.0
-Arauca district,"['seat of a first-order administrative division', 69264]","['seat of a first-order administrative division', 69264]"
+Arauca district,seat of a first-order administrative division,69264
 Juliaca,seat of a third-order administrative division,245675.0
 Gurdaspur District,second-order administrative division,2298323.0
 Sabratah,populated place,102038.0
@@ -79,7 +79,7 @@ Garvagh,populated place,1372.0
 Villa Nueva,seat of a second-order administrative division,406830.0
 Mannar District,second-order administrative division,0.0
 Cali district,populated place,0.0
-Gurziwan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Gurziwan district,second-order administrative division,0
 Sejoud,mountain,0.0
 Gaur,populated place,27325.0
 Candelaria,second-order administrative division,0.0
@@ -87,7 +87,7 @@ Sheikhan,populated place,0.0
 Dargecit,second-order administrative division,28891.0
 Bloomington,seat of a second-order administrative division,84067.0
 Salbu,pass,0.0
-Sungai Padi ((District)),"['second-order administrative division', 48153]","['second-order administrative division', 48153]"
+Sungai Padi ((District)),second-order administrative division,48153
 Jalalaqsi,second-order administrative division,0.0
 Ipil,seat of a second-order administrative division,19195.0
 Springs,seat of a second-order administrative division,456568.0
@@ -96,7 +96,7 @@ San Felipe,seat of a first-order administrative division,146000.0
 Bukavu,seat of a first-order administrative division,225389.0
 Mukha,second-order administrative division,18155.0
 Lota,populated place,49763.0
-Afgoye district,"['seat of a second-order administrative division', 65461]","['seat of a second-order administrative division', 65461]"
+Afgoye district,seat of a second-order administrative division,65461
 San Pedro Jocopilas,second-order administrative division,21782.0
 Kuwayr,area,0.0
 Uchiza,airport,0.0
@@ -109,15 +109,15 @@ Angoor Ada,populated place,0.0
 Roodepoort,populated place,225000.0
 Uige,first-order administrative division,1426354.0
 Miranshah,area,0.0
-Andkhoy district,"['seat of a second-order administrative division', 29208]","['seat of a second-order administrative division', 29208]"
+Andkhoy district,seat of a second-order administrative division,29208
 Rautahat district,third-order administrative division,591290.0
 Gujrat,seat of a second-order administrative division,301506.0
 Diffa,first-order administrative division,489531.0
 Cheddikulam,populated place,0.0
 Mandaluyong,populated place,305576.0
 Shihr,second-order administrative division,73482.0
-Sarkani district,"['populated place', 0]","['populated place', 0]"
-Chahar Bolak district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Sarkani district,populated place,0
+Chahar Bolak district,second-order administrative division,0
 Joateca,populated place,0.0
 West Garo Hills district,second-order administrative division,643291.0
 Heidelberg,seat of a third-order administrative division,143345.0
@@ -126,7 +126,7 @@ Remedios district,second-order administrative division,4052.0
 Kadiria,populated place,0.0
 Bursa,seat of a first-order administrative division,1412701.0
 Agadez,seat of a first-order administrative division,124324.0
-Chimtal district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chimtal district,second-order administrative division,0
 Oruro,seat of a first-order administrative division,208684.0
 Zagreb,capital of a political entity,698966.0
 Cabana,populated place,0.0
@@ -142,10 +142,10 @@ Jaramana,seat of a third-order administrative division,0.0
 Zamboanga city,seat of a second-order administrative division,457623.0
 Kfar Houneh,,
 Qaryatayn,seat of a third-order administrative division,31748.0
-Shorabak district,"['locality', 0]","['locality', 0]"
+Shorabak district,locality,0
 Duluiyah,facility,0.0
 Gorbaz,populated place,0.0
-Tamenglong district,"['second-order administrative division', 140651]","['second-order administrative division', 140651]"
+Tamenglong district,second-order administrative division,140651
 Chibok,second-order administrative division,0.0
 Kapho,second-order administrative division,15550.0
 Jandola,populated place,0.0
@@ -170,7 +170,7 @@ Kagiso,populated place,0.0
 Al-Salam,populated place,89327.0
 Agustin Codazzi,seat of a second-order administrative division,51478.0
 Gerona,seat of a second-order administrative division,96188.0
-Ghorband district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Ghorband district,second-order administrative division,0
 Tirah district,populated place,20786.0
 Harasta,seat of a third-order administrative division,37348.0
 St. Paul,populated place,99307.0
@@ -206,14 +206,14 @@ Lilong,populated place,0.0
 Sincelejo,seat of a first-order administrative division,261187.0
 Damadola,populated place,0.0
 San Bruno,seat of a third-order administrative division,6202.0
-Mahottari district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Mahottari district,second-order administrative division,0
 Nalbari,second-order administrative division,771639.0
 Siem Reap,seat of a first-order administrative division,139458.0
 Doncello,second-order administrative division,21547.0
 Kilrea,populated place,1616.0
 Porto Alegre,seat of a first-order administrative division,1372741.0
 Chintalnar,populated place,0.0
-Datu Salibo district,"['third-order administrative division', 14947]","['third-order administrative division', 14947]"
+Datu Salibo district,third-order administrative division,14947
 Dhangadhi,populated place,92294.0
 Kosovska Mitrovica,seat of a first-order administrative division,107045.0
 Jakawa,hill,0.0
@@ -230,8 +230,8 @@ Azizabad,populated place,0.0
 Meanguera,populated place,0.0
 Benidorm,seat of a third-order administrative division,71034.0
 Soroti,airport,0.0
-Koshki Kohna district,"[None, None]","[None, None]"
-Gijon district,"['seat of a third-order administrative division', 277554]","['seat of a third-order administrative division', 277554]"
+Koshki Kohna district,,
+Gijon district,seat of a third-order administrative division,277554
 Saqlawiah,,
 Milwaukee,seat of a second-order administrative division,600155.0
 Jayapura,seat of a first-order administrative division,134895.0
@@ -240,13 +240,13 @@ Rishon le Zion,populated place,220492.0
 Zakha Khel,tribal area,0.0
 San Miguel de Mercedes,populated place,0.0
 Ocotal,seat of a first-order administrative division,33928.0
-Paghman district,"['populated place', 49157]","['populated place', 49157]"
+Paghman district,populated place,49157
 Jounieh,seat of a second-order administrative division,96315.0
 Empangeni,populated place,28093.0
 Mungia,seat of a third-order administrative division,16209.0
 Colon,seat of a first-order administrative division,76643.0
 Rahim Yar Khan,seat of a second-order administrative division,788915.0
-Waza Khwa district,"['plain(s)', 0]","['plain(s)', 0]"
+Waza Khwa district,plain(s),0
 Imam Weis,,
 Cuernavaca,seat of a first-order administrative division,343769.0
 Ratnapura,seat of a first-order administrative division,47832.0
@@ -259,11 +259,11 @@ Murcia,seat of a first-order administrative division,436870.0
 Boulder,seat of a second-order administrative division,107349.0
 Bogra,populated place,210000.0
 Makati City,seat of a second-order administrative division,510383.0
-Puli Alam district,"['bridge', 0]","['bridge', 0]"
+Puli Alam district,bridge,0
 Mercedes Umana,populated place,0.0
 Asmara,capital of a political entity,563930.0
 Mahupadar,populated place,0.0
-Waghaz district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Waghaz district,second-order administrative division,0
 Golweyn,hills,0.0
 Apastepeque,lake,0.0
 Meadowlands,populated place,134.0
@@ -289,7 +289,7 @@ Brasilia,independent political entity,201103330.0
 Makassar,seat of a first-order administrative division,1321717.0
 San Ignacio,populated place,16812.0
 Kfar Aza,,
-Chalhuanca district,"['seat of a third-order administrative division', 0]","['seat of a third-order administrative division', 0]"
+Chalhuanca district,seat of a third-order administrative division,0
 Moyobamba,seat of a first-order administrative division,44276.0
 Sandakan,populated place,392288.0
 Curumani,seat of a second-order administrative division,22084.0
@@ -324,7 +324,7 @@ Buraiqeh,second-order administrative division,62405.0
 Cullyhanna,populated place,0.0
 Qaa,populated place,0.0
 El Paujil,second-order administrative division,17634.0
-Qoryoley district,"['seat of a second-order administrative division', 51720]","['seat of a second-order administrative division', 51720]"
+Qoryoley district,seat of a second-order administrative division,51720
 Amritsar district,populated place,1092450.0
 Sokilnyky,populated place,0.0
 La Esperanza,second-order administrative division,0.0
@@ -332,7 +332,7 @@ Ayutuxtepeque,populated place,25426.0
 Caloocan,seat of a second-order administrative division,1500000.0
 Chincay,populated place,0.0
 Beja,first-order administrative division,161211.0
-Alasay district,"['mountain', 0]","['mountain', 0]"
+Alasay district,mountain,0
 Port Shepstone,seat of a second-order administrative division,52793.0
 Awjah,hill,0.0
 Cartago,seat of a first-order administrative division,26594.0
@@ -347,18 +347,18 @@ Pandanguo,locality,0.0
 Bolivar,seat of a first-order administrative division,338000.0
 Mocoa,seat of a first-order administrative division,22035.0
 Edmonton,seat of a first-order administrative division,712391.0
-Sonitpur district,"['second-order administrative division', 1924110]","['second-order administrative division', 1924110]"
+Sonitpur district,second-order administrative division,1924110
 Saydabad,second-order administrative division,0.0
 Arcatao,populated place,0.0
 Bo Thong,second-order administrative division,44177.0
 Tuguegarao,seat of a first-order administrative division,115105.0
-Churachandpur district,"['populated place', 47774]","['populated place', 47774]"
+Churachandpur district,populated place,47774
 Fafahdun,populated place,0.0
 Na Pradu,populated place,0.0
 Askira,second-order administrative division,0.0
 Concepcion Quetzaltepeque,,
 Silla de Oro,mountain,0.0
-Chishti Sharif district,"[None, None]","[None, None]"
+Chishti Sharif district,,
 Finaghy,populated place,0.0
 Loralai district,second-order administrative division,700000.0
 Suruc,second-order administrative division,101366.0
@@ -394,7 +394,7 @@ Aurangabad,seat of a second-order administrative division,1016441.0
 Kashgar,seat of a second-order administrative division,274717.0
 Bloemfontein,seat of a first-order administrative division,463064.0
 Awdheegle,,
-Dashti Qala district,"['seat of a second-order administrative division', 0]","['seat of a second-order administrative division', 0]"
+Dashti Qala district,seat of a second-order administrative division,0
 Kulbiyow,populated place,0.0
 Sevilla,seat of a first-order administrative division,703206.0
 Bint Jbeil,second-order administrative division,0.0
@@ -404,7 +404,7 @@ Rakhni,populated place,0.0
 Dhadar,populated place,15090.0
 Welikanda,populated place,0.0
 Sayyidah Zaynab,section of populated place,0.0
-Waygal district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Waygal district,second-order administrative division,0
 Palma de Mallorca,seat of a first-order administrative division,401270.0
 Tarragona,seat of a second-order administrative division,140323.0
 Sarab,second-order administrative division,0.0
@@ -413,7 +413,7 @@ Badari,populated place,44132.0
 Hamad,populated place,52718.0
 San Cristobal,capital of a political entity,525990.0
 Chainpur,second-order administrative division,0.0
-Gwoza district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Gwoza district,second-order administrative division,0
 Puerto Valdivia,populated place,3500.0
 Barmal,hill,0.0
 Tuyong,populated place,0.0
@@ -455,7 +455,7 @@ Goniri,third-order administrative division,0.0
 Anuradhapura district,second-order administrative division,755431.0
 Sayyad district,populated place,0.0
 Tagab,second-order administrative division,0.0
-Dargecit district,"['second-order administrative division', 28891]","['second-order administrative division', 28891]"
+Dargecit district,second-order administrative division,28891
 San Jose de Secce,populated place,0.0
 Almaty,seat of a first-order administrative division,2000900.0
 Ituango,second-order administrative division,25088.0
@@ -488,12 +488,12 @@ Lubumbashi,seat of a first-order administrative division,1373770.0
 Prosperidad,locality,0.0
 Dinanagar,populated place,23339.0
 Hatra district,archaeological/prehistoric site,0.0
-Naw Bahar district,"['abandoned populated place', 0]","['abandoned populated place', 0]"
+Naw Bahar district,abandoned populated place,0
 Stewartstown,populated place,2305.0
 San Nicolas,populated place,443273.0
 Coagh,populated place,0.0
 Bani Walid,populated place,46350.0
-Fortul district,"['second-order administrative division', 21851]","['second-order administrative division', 21851]"
+Fortul district,second-order administrative division,21851
 Nawai,populated place,0.0
 Udhampur,populated place,80447.0
 Suva,capital of a political entity,77366.0
@@ -510,9 +510,9 @@ Jamui district,populated place,0.0
 Elephant Pass,triangulation station,0.0
 Piura,seat of a first-order administrative division,325466.0
 Tenenkou,second-order administrative division,0.0
-Sozma Qala district,"[None, None]","[None, None]"
+Sozma Qala district,,
 Esteli,seat of a first-order administrative division,96422.0
-Chaki Wardak district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chaki Wardak district,second-order administrative division,0
 Banihal,populated place,3278.0
 Tatvan,seat of a second-order administrative division,73222.0
 Chuadanga,second-order administrative division,1129015.0
@@ -553,7 +553,7 @@ Albu Ajil,populated place,0.0
 Osorno,seat of a second-order administrative division,135773.0
 Yakouren,populated place,0.0
 Marmaris,seat of a second-order administrative division,33731.0
-Canete district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Canete district,second-order administrative division,0
 Salman Bak,locality,0.0
 Etapalli,,
 Moratuwa,populated place,185031.0
@@ -570,12 +570,12 @@ Sur Kamar,locality,0.0
 Freetown,capital of a political entity,802639.0
 Cangallo,second-order administrative division,0.0
 Maan,first-order administrative division,121400.0
-Dar Sad district,"['second-order administrative division', 79712]","['second-order administrative division', 79712]"
+Dar Sad district,second-order administrative division,79712
 Gjilan,seat of a first-order administrative division,51912.0
 El Porvenir,second-order administrative division,14437.0
 Kabasalan,third-order administrative division,44336.0
 Ngamdu,third-order administrative division,0.0
-Yamgan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Yamgan district,second-order administrative division,0
 Attock,second-order administrative division,0.0
 Serunuware,,
 Senapati,second-order administrative division,479148.0
@@ -594,15 +594,15 @@ Ganta,populated place,0.0
 Andamarca,seat of a second-order administrative division,0.0
 Ronguyocc Alto,,
 Tarma district,populated place,0.0
-Shirzad district,"['populated place', 0]","['populated place', 0]"
+Shirzad district,populated place,0
 Mathra,populated place,0.0
-Kupwara district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kupwara district,second-order administrative division,0
 Pailitas,seat of a second-order administrative division,10480.0
 Khas Uruzgan,populated place,13388.0
 Matanog,peak,0.0
 Markaba,populated place,0.0
 Dammaj,populated place,0.0
-Du Layna district,"[None, None]","[None, None]"
+Du Layna district,,
 Salvador,independent political entity,6052064.0
 Chashma Sher,populated place,0.0
 Urgun district,second-order administrative division,0.0
@@ -647,7 +647,7 @@ Rostock,seat of a third-order administrative division,198293.0
 Villa Victoria,second-order administrative division,0.0
 Ife,second-order administrative division,0.0
 San Miguel Uspantan,second-order administrative division,41892.0
-Pashtun Zarghun district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Pashtun Zarghun district,second-order administrative division,0
 Marawara,populated place,0.0
 Lam Mai,populated place,0.0
 Guihulngan,populated place,22931.0
@@ -674,7 +674,7 @@ tokyo,capital of a political entity,8336599.0
 Thirukkovil,populated place,0.0
 Panipat,populated place,292808.0
 San Juan Cotzal,second-order administrative division,20050.0
-Ipekyolu district,"['second-order administrative division', 274902]","['second-order administrative division', 274902]"
+Ipekyolu district,second-order administrative division,274902
 Merida,seat of a first-order administrative division,717175.0
 Tall Tamr,populated place,0.0
 Arambala,populated place,0.0
@@ -730,7 +730,7 @@ Miryan,populated place,0.0
 Lamphu,seat of a first-order administrative division,34401.0
 La Victoria,capital of a political entity,22881.0
 Gjirokaster,seat of a first-order administrative division,23437.0
-Sheikh Zuweid district,"[None, None]","[None, None]"
+Sheikh Zuweid district,,
 Izberbash,populated place,42121.0
 Upper Dir district,second-order administrative division,0.0
 Tarma,seat of a third-order administrative division,51350.0
@@ -740,11 +740,11 @@ Haqlaniyah,populated place,0.0
 Rajouri district,second-order administrative division,642415.0
 Huancasancos,,
 Sangsila,populated place,0.0
-Sukhirin district,"['second-order administrative division', 22898]","['second-order administrative division', 22898]"
+Sukhirin district,second-order administrative division,22898
 Almoustarat,,
 Ghulam Khan,plain(s),0.0
 East Singhbhum district,second-order administrative division,2293919.0
-Lal Por district,"[None, None]","[None, None]"
+Lal Por district,,
 Asturias,seat of a first-order administrative division,224005.0
 Betong,seat of a second-order administrative division,29604.0
 Al-Hudaydah,seat of a first-order administrative division,617871.0
@@ -757,7 +757,7 @@ Poipet,populated place,79000.0
 Mbabane,capital of a political entity,76218.0
 Lakaro,mountain,0.0
 Timilwada,,
-Jani Khail district,"[None, None]","[None, None]"
+Jani Khail district,,
 Asansol,seat of a second-order administrative division,504271.0
 Dubai,seat of a first-order administrative division,1137347.0
 San Gerardo,populated place,0.0
@@ -766,7 +766,7 @@ Takht Bhai,populated place,0.0
 Beit Shean,populated place,16800.0
 Monaragala,populated place,10236.0
 San Nicolas Lempa,populated place,0.0
-Jaji Maydan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Jaji Maydan district,second-order administrative division,0
 Maasim,third-order administrative division,59468.0
 Anco,pass,0.0
 Cherkessk,seat of a first-order administrative division,116224.0
@@ -780,7 +780,7 @@ G.C.,park,0.0
 Idli,,
 Bansalan,seat of a third-order administrative division,21391.0
 Aretxabaleta,populated place,0.0
-Nurgal district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Nurgal district,second-order administrative division,0
 Randfontein,seat of a second-order administrative division,133654.0
 Allahabad,populated place,1073438.0
 Puthukkudiyiruppu,populated place,0.0
@@ -789,8 +789,8 @@ St. Louis,seat of a first-order administrative division,176000.0
 Dinaig,island,0.0
 Daveyton,populated place,0.0
 Khamis Mushayt,populated place,387553.0
-Rodat district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Kohistanat district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Rodat district,second-order administrative division,0
+Kohistanat district,second-order administrative division,0
 Ligao,seat of a third-order administrative division,10295.0
 Tudela,seat of a third-order administrative division,34717.0
 Dungiven,populated place,3066.0
@@ -805,8 +805,8 @@ Chemtal,seat of a second-order administrative division,0.0
 Khok Pho ((District)),mountain,0.0
 Spin Qabar,,
 Albu Alwan,area,0.0
-Krong Pinang district,"['second-order administrative division', 24487]","['second-order administrative division', 24487]"
-Sonitpor district,"[None, None]","[None, None]"
+Krong Pinang district,second-order administrative division,24487
+Sonitpor district,,
 Tartus,seat of a first-order administrative division,89457.0
 Tangdhar,populated place,0.0
 Jalame,slope(s),0.0
@@ -827,7 +827,7 @@ Garhwa,second-order administrative division,1322784.0
 Tanyongmas,,
 Kanpur,populated place,2823249.0
 Zubin Potok,seat of a second-order administrative division,14900.0
-Orito district,"['populated place', 13708]","['populated place', 13708]"
+Orito district,populated place,13708
 Rajnandgaon,second-order administrative division,1537133.0
 Tungawan,seat of a third-order administrative division,3603.0
 Abyak,,
@@ -846,13 +846,13 @@ Memla,populated place,0.0
 Jackson,seat of a first-order administrative division,170674.0
 Nembe district,populated place,0.0
 Uch,populated place,0.0
-El Rama district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+El Rama district,second-order administrative division,0
 Eruh district,second-order administrative division,19862.0
 Tair Harfa,populated place,0.0
 Trincomalee District,second-order administrative division,365841.0
 Chattanooga,seat of a second-order administrative division,176588.0
 Trebiel,,
-Radaa district,"[None, None]","[None, None]"
+Radaa district,,
 Kabang district,populated place,0.0
 Zahle,seat of a first-order administrative division,78145.0
 Dijlah,second-order administrative division,0.0
@@ -913,30 +913,30 @@ Gaborone,capital of a political entity,208411.0
 Holon,populated place,165787.0
 Catarman,airport,0.0
 Rio San Juan,first-order administrative division,95500.0
-Tarin Kot district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Gulran district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Tarin Kot district,second-order administrative division,0
+Gulran district,second-order administrative division,0
 Mukashafah,,
 Sheikhabad,populated place,0.0
 Hoshiapur,,
 Akkakhel,,
 Alishing,populated place,0.0
 Condega,second-order administrative division,0.0
-Qafr district,"['second-order administrative division', 103272]","['second-order administrative division', 103272]"
+Qafr district,second-order administrative division,103272
 karachi,seat of a first-order administrative division,11624219.0
 Harnai,second-order administrative division,0.0
 Sumbal,populated place,11695.0
 Ostia,populated place,79400.0
 Puerto Wilches,populated place,13705.0
 Kahan,populated place,0.0
-Sar Hawza district,"[None, None]","[None, None]"
+Sar Hawza district,,
 Grenoble,seat of a second-order administrative division,158552.0
 Mahawil district,second-order administrative division,0.0
 Yairipok,populated place,8797.0
 Mareerey,populated place,0.0
-Sincelejo district,"['seat of a first-order administrative division', 261187]","['seat of a first-order administrative division', 261187]"
-Shaigal Aw Shiltan district,"[None, None]","[None, None]"
+Sincelejo district,seat of a first-order administrative division,261187
+Shaigal Aw Shiltan district,,
 Belalcazar,second-order administrative division,11872.0
-Qarghayi district,"[None, None]","[None, None]"
+Qarghayi district,,
 Mershing,,
 Rayagada district,abandoned populated place,0.0
 Los Arcos,populated place,1295.0
@@ -954,7 +954,7 @@ Al-Mukalla,seat of a first-order administrative division,258132.0
 Ekka Ghund,mountain,0.0
 Chokpot,populated place,0.0
 Chinandega,seat of a first-order administrative division,126387.0
-Puerto Cabezas district,"['airport', 0]","['airport', 0]"
+Puerto Cabezas district,airport,0
 Okrika,seat of a second-order administrative division,133271.0
 Nagoya,seat of a first-order administrative division,2191279.0
 Loreto,seat of a first-order administrative division,437620.0
@@ -967,7 +967,7 @@ Shawal,populated place,0.0
 Nabunturan,seat of a third-order administrative division,16671.0
 Guindulungan,third-order administrative division,19911.0
 Magam,third-order administrative division,0.0
-Yosuf Khel district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Yosuf Khel district,second-order administrative division,0
 Ed Daein,seat of a first-order administrative division,264734.0
 Indanan,third-order administrative division,80883.0
 Zakupwang,,
@@ -992,7 +992,7 @@ Verapaz,first-order administrative division,776246.0
 Valvettiturai,populated place,78205.0
 Puerres,second-order administrative division,8979.0
 Nafada,second-order administrative division,0.0
-Mosa Khail district,"[None, None]","[None, None]"
+Mosa Khail district,,
 Lod,populated place,66589.0
 Sateng Nok,,
 Wiwili district,hill,0.0
@@ -1060,13 +1060,13 @@ Pacaycasa,third-order administrative division,0.0
 Wadi Abida,wadi,0.0
 Sivas,seat of a first-order administrative division,264022.0
 Sestao,seat of a third-order administrative division,29476.0
-Sherzad district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Sherzad district,second-order administrative division,0
 Azzun,populated place,1746.0
 Kolpur,populated place,0.0
 Porto,seat of a first-order administrative division,249633.0
 Cabinda,first-order administrative division,688285.0
 Badhadhe,,
-Satipo district,"['seat of a third-order administrative division', 15532]","['seat of a third-order administrative division', 15532]"
+Satipo district,seat of a third-order administrative division,15532
 Serai Naurang,,
 Freiburg,seat of a second-order administrative division,215966.0
 Kwamashu,populated place,0.0
@@ -1076,7 +1076,7 @@ Tuulo Barwaqo,,
 Utmanzai,populated place,29423.0
 Acoyapa,second-order administrative division,0.0
 Azangaro,second-order administrative division,0.0
-Sayed Karam district,"['seat of a second-order administrative division', 0]","['seat of a second-order administrative division', 0]"
+Sayed Karam district,seat of a second-order administrative division,0
 Pilpichaca,third-order administrative division,0.0
 Azare,seat of a second-order administrative division,105687.0
 Mahayahay,populated place,0.0
@@ -1086,7 +1086,7 @@ Algeciras,seat of a third-order administrative division,116209.0
 Naft Khanah,tank farm,0.0
 Acacias district,section of populated place,0.0
 Wuppertal,seat of a third-order administrative division,360797.0
-Maymana district,"['seat of a first-order administrative division', 75900]","['seat of a first-order administrative division', 75900]"
+Maymana district,seat of a first-order administrative division,75900
 Tulsa,seat of a second-order administrative division,403505.0
 Tarrasa,populated place,210941.0
 Mardan district,second-order administrative division,0.0
@@ -1094,14 +1094,14 @@ Puerto Barrios,airport,0.0
 Batan,independent political entity,699847.0
 Joyabaj,second-order administrative division,52498.0
 Yaring district,mountain,0.0
-Kupwara District,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Yarang (District),"['second-order administrative division', 83922]","['second-order administrative division', 83922]"
+Kupwara District,second-order administrative division,0
+Yarang (District),second-order administrative division,83922
 Nir Oz,populated place,0.0
 Nari Baba,,
 Kurunegala District,second-order administrative division,1455531.0
 Pitogo,populated place,5972.0
 Ocros,second-order administrative division,0.0
-Chitwan district,"['park', 0]","['park', 0]"
+Chitwan district,park,0
 Wembezi,,
 Al-Hussainiyah,populated place,0.0
 Gonder,populated place,153914.0
@@ -1131,11 +1131,11 @@ Tallaght,seat of a second-order administrative division,64282.0
 Solenzara,populated place,1150.0
 Ventiseri,populated place,2652.0
 Médéa,seat of a first-order administrative division,147707.0
-Quilali district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Quilali district,second-order administrative division,0
 Omdurman,populated place,1200000.0
 Punta Arenas,seat of a first-order administrative division,117430.0
 Maasin,populated place,5847.0
-Matagalpa district,"['seat of a first-order administrative division', 109089]","['seat of a first-order administrative division', 109089]"
+Matagalpa district,seat of a first-order administrative division,109089
 Mesetas,second-order administrative division,10695.0
 Qila Abdullah district,second-order administrative division,0.0
 Dammam,seat of a first-order administrative division,768602.0
@@ -1145,7 +1145,7 @@ Qala-i-Naw,seat of a first-order administrative division,9000.0
 Bargi Matal,second-order administrative division,0.0
 Akron,seat of a second-order administrative division,197542.0
 Bacheli,mountain,0.0
-Rohtas district,"['second-order administrative division', 2959918]","['second-order administrative division', 2959918]"
+Rohtas district,second-order administrative division,2959918
 Coronel,seat of a first-order administrative division,51286.0
 Balkh,seat of a second-order administrative division,114883.0
 Hamra,first-order administrative division,367758.0
@@ -1160,7 +1160,7 @@ Lubeck,seat of a third-order administrative division,212207.0
 San Cristobal de Las Casas,seat of a second-order administrative division,128996.0
 Sardinata,second-order administrative division,22733.0
 Baquba,seat of a first-order administrative division,152550.0
-Murghab district,"['locality', 0]","['locality', 0]"
+Murghab district,locality,0
 Pezu,populated place,0.0
 Fort Victoria,seat of a first-order administrative division,76290.0
 Jhapa district,populated place,0.0
@@ -1176,13 +1176,13 @@ Duki,populated place,818329.0
 Buluan,lake,0.0
 Kalaiya,populated place,0.0
 Datu Paglas,seat of a third-order administrative division,3851.0
-Arhab district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Khannesin district,"['mountain', 0]","['mountain', 0]"
+Arhab district,second-order administrative division,0
+Khannesin district,mountain,0
 Gazipur,populated place,337579.0
 Lubango,seat of a first-order administrative division,102541.0
 Pallamadu,populated place,0.0
 Zacapa,first-order administrative division,0.0
-Rupandehi district,"['third-order administrative division', 785610]","['third-order administrative division', 785610]"
+Rupandehi district,third-order administrative division,785610
 Dargai,area,0.0
 Mali Khel,populated place,0.0
 Erzincan,seat of a first-order administrative division,114027.0
@@ -1190,7 +1190,7 @@ Medina,seat of a first-order administrative division,1300000.0
 Ventersdorp,third-order administrative division,36528.0
 Spokane,seat of a second-order administrative division,213272.0
 Vitina,seat of a second-order administrative division,46959.0
-Shariff Aguak district,"['third-order administrative division', 31692]","['third-order administrative division', 31692]"
+Shariff Aguak district,third-order administrative division,31692
 Qusayr,region,0.0
 Minneapolis,seat of a second-order administrative division,410939.0
 Wageasi,,
@@ -1213,7 +1213,7 @@ Imbali,populated place,0.0
 Hazaribagh district,populated place,140063.0
 Haripur,second-order administrative division,0.0
 Mirmandab,area,0.0
-Qala Kah district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Qala Kah district,second-order administrative division,0
 Pachacamac,populated place,0.0
 Bana,seat of a first-order administrative division,221106.0
 Maceo,second-order administrative division,7630.0
@@ -1223,13 +1223,13 @@ Dariyah,populated place,0.0
 Kawkareik,populated places,246065.0
 Santiago Atitlan,populated place,33309.0
 Murrat al-Numan,,
-Huamaguilla district,"[None, None]","[None, None]"
+Huamaguilla district,,
 Junin,seat of a first-order administrative division,376657.0
 Makiivka,populated place,376610.0
 Samana,first-order administrative division,91875.0
 Trona,cape,0.0
 Jurf Naddaf,,
-Dand Patan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Dand Patan district,second-order administrative division,0
 Agua Blanca,second-order administrative division,0.0
 Gurdaspur district,second-order administrative division,2298323.0
 Panabo,populated place,84749.0
@@ -1254,12 +1254,12 @@ Beni Ksila,,
 Aguaytia,populated place,0.0
 Aryob Zazi,,
 Maloorlivka,populated place,0.0
-Mudiyah district,"['second-order administrative division', 34879]","['second-order administrative division', 34879]"
+Mudiyah district,second-order administrative division,34879
 Ottamawadi,,
 Pase Yawo,,
-Dawlat Shah district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Ab Kamari district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Omna district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Dawlat Shah district,second-order administrative division,0
+Ab Kamari district,second-order administrative division,0
+Omna district,second-order administrative division,0
 Magpet,populated place,5414.0
 Dangam,second-order administrative division,0.0
 Bandhugaon,populated place,0.0
@@ -1274,10 +1274,10 @@ Norfolk,dependent political entity,1828.0
 Hawad,third-order administrative division,0.0
 Pampa Cangallo,populated place,0.0
 Yarumal,second-order administrative division,41240.0
-Konduga district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Konduga district,second-order administrative division,0
 Ammal,populated place,0.0
 Pitumudi,populated place,0.0
-Hailabandi district,"[None, None]","[None, None]"
+Hailabandi district,,
 Moga,populated place,130549.0
 Nueva Trinidad,populated place,0.0
 Salboni,populated place,0.0
@@ -1285,7 +1285,7 @@ Buin,populated place,55441.0
 San Pedro de Uraba,airport,0.0
 Kushtia,populated place,135724.0
 Simiti,second-order administrative division,18418.0
-Kapho district,"['second-order administrative division', 15550]","['second-order administrative division', 15550]"
+Kapho district,second-order administrative division,15550
 El Naranjo,airport,0.0
 Bankura,populated place,133966.0
 ludhiana,populated place,1545368.0
@@ -1298,13 +1298,13 @@ Floridablanca,populated place,252267.0
 Ban Rae,populated place,0.0
 Gingoog,populated place,0.0
 Dihrawud,,
-Khamyab district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Khamyab district,second-order administrative division,0
 Mubarak al-Farhan,,
 Dhanakuta,populated place,0.0
 Itahari,second-order administrative division,0.0
 Yamabal,populated place,0.0
 Benin,independent political entity,9056010.0
-Rangae ((District)),"['seat of a second-order administrative division', 16862]","['seat of a second-order administrative division', 16862]"
+Rangae ((District)),seat of a second-order administrative division,16862
 Bria,seat of a first-order administrative division,29027.0
 Orlando,seat of a second-order administrative division,270934.0
 Ortega,populated place,6871.0
@@ -1320,15 +1320,15 @@ Tasp,populated place,0.0
 Khudwani,,
 Akashat,mining area,0.0
 El Carrizal,populated place,0.0
-Khwaja Umari district,"[None, None]","[None, None]"
+Khwaja Umari district,,
 Sar Banader,populated place,0.0
-Tala Wa Barfak district,"['locality', 0]","['locality', 0]"
+Tala Wa Barfak district,locality,0
 Pulmoddai,populated place,0.0
 Mascara,seat of a first-order administrative division,150000.0
 El Espino,second-order administrative division,3997.0
 Shuwa,second-order administrative division,0.0
 Ngozi,seat of a first-order administrative division,21506.0
-Tak Bai (District),"['second-order administrative division', 57776]","['second-order administrative division', 57776]"
+Tak Bai (District),second-order administrative division,57776
 Al-Hajj,drainage basin,0.0
 Jalandhar district,populated place,785178.0
 Kandh Kot,locality,0.0
@@ -1349,8 +1349,8 @@ Bordeaux,seat of a first-order administrative division,231844.0
 Salcedo,seat of a first-order administrative division,45299.0
 El Congo,populated place,8905.0
 Malabon,seat of a third-order administrative division,0.0
-Charsada district,"[None, None]","[None, None]"
-Bargi Matal district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Charsada district,,
+Bargi Matal district,second-order administrative division,0
 Salou,populated place,26649.0
 Albania,independent political entity,2986952.0
 Marynivka,populated place,0.0
@@ -1369,7 +1369,7 @@ Rabinal,second-order administrative division,0.0
 Torez,populated place,68037.0
 Ghakhi,canyon,0.0
 Aramta,populated place,0.0
-Shib Koh district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Shib Koh district,second-order administrative division,0
 Mansuriyah,populated place,0.0
 Chamalang,populated place,0.0
 Zahra,second-order administrative division,0.0
@@ -1382,7 +1382,7 @@ Elorrio,seat of a third-order administrative division,7041.0
 Laoag,seat of a second-order administrative division,102105.0
 Mahur,populated place,0.0
 Gordzad,,
-Sirkanay district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Sirkanay district,second-order administrative division,0
 Polampalli,populated place,0.0
 Ballynafeigh,populated place,0.0
 Sousse,seat of a first-order administrative division,164123.0
@@ -1431,16 +1431,16 @@ Darazo,second-order administrative division,0.0
 Ja-Ela,populated place,32175.0
 Akkar district,tomb(s),0.0
 Garoua-Mboulai,,
-Shinwari district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Tarnak Wa Jaldak district,"[None, None]","[None, None]"
+Shinwari district,second-order administrative division,0
+Tarnak Wa Jaldak district,,
 Babaji,populated place,0.0
 Latih,populated place,0.0
-Nahrin district,"['seat of a second-order administrative division', 22363]","['seat of a second-order administrative division', 22363]"
+Nahrin district,seat of a second-order administrative division,22363
 Bin Jawad,tribal area,0.0
 Ponta Delgada,seat of a first-order administrative division,20056.0
 La Paz district,populated place,0.0
 Bala Morghab,populated place,0.0
-Ajristan district,"['locality', 0]","['locality', 0]"
+Ajristan district,locality,0
 Karainagar,populated place,0.0
 Dicle,second-order administrative division,40593.0
 Okene,seat of a second-order administrative division,479178.0
@@ -1466,13 +1466,13 @@ Sholgara,second-order administrative division,0.0
 Godogodo,third-order administrative division,0.0
 Achin,second-order administrative division,0.0
 Qantara,populated place,0.0
-Sumisip district,"['seat of a third-order administrative division', 3735]","['seat of a third-order administrative division', 3735]"
+Sumisip district,seat of a third-order administrative division,3735
 Soutpansberg,mountain,0.0
 Arica,seat of a first-order administrative division,185999.0
 Wama district,populated place,0.0
 Brass,second-order administrative division,0.0
 Athlone,populated place,0.0
-Chahar Burja district,"[None, None]","[None, None]"
+Chahar Burja district,,
 Arrigorriaga,seat of a third-order administrative division,12435.0
 Jorhat,populated place,69033.0
 Dhanukha,populated place,0.0
@@ -1508,9 +1508,9 @@ Zumaia,seat of a third-order administrative division,8751.0
 Duisburg,seat of a third-order administrative division,504358.0
 Gush Etzion,,
 Mayfaa,second-order administrative division,41597.0
-Cimitarra district,"['second-order administrative division', 34293]","['second-order administrative division', 34293]"
+Cimitarra district,second-order administrative division,34293
 Boudouaou,populated place,45153.0
-Zarghun Shahr district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Zarghun Shahr district,second-order administrative division,0
 Antigua,seat of a first-order administrative division,39368.0
 Tebessa,seat of a first-order administrative division,634332.0
 Yokosuka,seat of a second-order administrative division,428992.0
@@ -1518,8 +1518,8 @@ Bartella,,
 Bor,seat of a second-order administrative division,39387.0
 Bat Yam,populated place,128979.0
 Pagalungan,populated place,31052.0
-Ghani Khel district,"['area', 0]","['area', 0]"
-Cho Ai Rong ((District)),"['third-order administrative division', 3722]","['third-order administrative division', 3722]"
+Ghani Khel district,area,0
+Cho Ai Rong ((District)),third-order administrative division,3722
 Nueva Esparta,first-order administrative division,491610.0
 Urizar de Lemoniz,populated place,0.0
 Sacsamarca,third-order administrative division,0.0
@@ -1531,14 +1531,14 @@ Hoboken,populated place,53635.0
 Chimaltenango,seat of a first-order administrative division,82370.0
 Tarsus,seat of a second-order administrative division,256482.0
 Patia,second-order administrative division,33195.0
-Puli Khumri district,"['seat of a first-order administrative division', 56369]","['seat of a first-order administrative division', 56369]"
+Puli Khumri district,seat of a first-order administrative division,56369
 Rivas,first-order administrative division,166900.0
 Barue district,second-order administrative division,0.0
 Kanyosha,second-order administrative division,0.0
 Naqoura,populated place,24910.0
 Zawiyah,seat of a first-order administrative division,200000.0
 Skikda,seat of a first-order administrative division,162702.0
-Surkh Rod district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Surkh Rod district,second-order administrative division,0
 Tawakol,,
 San Juan del Rio Coco,second-order administrative division,0.0
 Trieste,seat of a first-order administrative division,187056.0
@@ -1565,10 +1565,10 @@ Bohdanivka,populated place,0.0
 Wau,seat of a first-order administrative division,127384.0
 Isa Town,populated place,38090.0
 Umbumbulu,populated place,0.0
-Dara-i-Sufi Payin district,"[None, None]","[None, None]"
+Dara-i-Sufi Payin district,,
 Shirin Tagab,second-order administrative division,0.0
 Bubanza,first-order administrative division,354427.0
-Caldiran district,"['second-order administrative division', 66624]","['second-order administrative division', 66624]"
+Caldiran district,second-order administrative division,66624
 Maungdaw district,second-order administrative division,0.0
 san luis,seat of a first-order administrative division,677704.0
 Aleosan,third-order administrative division,39405.0
@@ -1584,7 +1584,7 @@ Mansouriyah,populated place,0.0
 Shahjoy,mountain,0.0
 Kaohsiung,seat of a first-order administrative division,1519711.0
 El Retorno,second-order administrative division,19063.0
-Managua district,"['capital of a political entity', 973087]","['capital of a political entity', 973087]"
+Managua district,capital of a political entity,973087
 Arboletes,second-order administrative division,30738.0
 San Juan de Arama,second-order administrative division,9218.0
 Khanpur,populated place,142426.0
@@ -1592,7 +1592,7 @@ Gisenyi,seat of a second-order administrative division,83623.0
 Butembo,seat of a third-order administrative division,154621.0
 Siegen,seat of a third-order administrative division,107242.0
 Bulo Gaduud,,
-Teorama district,"['second-order administrative division', 17523]","['second-order administrative division', 17523]"
+Teorama district,second-order administrative division,17523
 Iquique,seat of a first-order administrative division,227499.0
 Hashimiyah,second-order administrative division,0.0
 Doha,capital of a political entity,344939.0
@@ -1601,7 +1601,7 @@ Villahermosa,seat of a first-order administrative division,362401.0
 Pesalai,populated place,0.0
 Akka Khel,populated place,0.0
 Lupon,seat of a third-order administrative division,27247.0
-Leoncio Prado district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Leoncio Prado district,second-order administrative division,0
 Gwangju,seat of a first-order administrative division,1416938.0
 Dih Bala district,populated place,0.0
 Moira,second-order administrative division,28675.0
@@ -1620,7 +1620,7 @@ Buayan,populated place,679588.0
 Langar,area,0.0
 Az Zahir district,populated place,0.0
 Cotabato,populated place,1121974.0
-Cusco district,"['seat of a first-order administrative division', 312140]","['seat of a first-order administrative division', 312140]"
+Cusco district,seat of a first-order administrative division,312140
 Isplinji,populated place,0.0
 Itami,seat of a second-order administrative division,193524.0
 Garhwa district,populated place,0.0
@@ -1635,7 +1635,7 @@ Nueva Guinea district,seat of a first-order administrative division,26273.0
 Ludhiana District,populated place,1545368.0
 Larba,populated place,0.0
 Dabanga,populated place,0.0
-Kailali district,"['populated place', 0]","['populated place', 0]"
+Kailali district,populated place,0
 Cannes,populated place,70011.0
 Issers,populated place,0.0
 Teotecacinte,pass,0.0
@@ -1647,14 +1647,14 @@ Bishkan,populated place,0.0
 Thandikulam,,
 Khar Kalay,populated place,0.0
 Sacapulas,second-order administrative division,0.0
-Condega district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Condega district,second-order administrative division,0
 Cinar,second-order administrative division,68530.0
 Atteridgeville,populated place,0.0
 Varese,seat of a second-order administrative division,76851.0
 Salgar,second-order administrative division,18206.0
-Waziiyah district,"['second-order administrative division', 75288]","['second-order administrative division', 75288]"
+Waziiyah district,second-order administrative division,75288
 Coeur D'Alene,populated place,49122.0
-Dur Baba district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Dur Baba district,second-order administrative division,0
 Basak,populated place,0.0
 Taluban,seat of a second-order administrative division,14356.0
 Isnos,second-order administrative division,23702.0
@@ -1663,7 +1663,7 @@ Rostrevor,populated place,2515.0
 Zacamil,populated place,0.0
 Arua,seat of a second-order administrative division,55585.0
 Tumahubong,fourth-order administrative division,0.0
-Seraikela Kharsawan district,"['second-order administrative division', 1065056]","['second-order administrative division', 1065056]"
+Seraikela Kharsawan district,second-order administrative division,1065056
 Edfu,populated place,133000.0
 Shagai,populated place,0.0
 Neveh Dekalim,abandoned populated place,0.0
@@ -1690,21 +1690,21 @@ Peshwar,,
 Pulo Puyo,,
 Matucana,seat of a third-order administrative division,4517.0
 Mayurbhanj,second-order administrative division,2519738.0
-Bongaigaon district,"['second-order administrative division', 738804]","['second-order administrative division', 738804]"
+Bongaigaon district,second-order administrative division,738804
 Dhanbad,populated place,219636.0
 Matamoros,populated place,449815.0
 Huando,third-order administrative division,0.0
 Thanamandi,,
-Mardyan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Mardyan district,second-order administrative division,0
 Maiha,second-order administrative division,0.0
 Kakapora,,
 Dickwella,seaplane landing area,0.0
-Rutshuru district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Rutshuru district,second-order administrative division,0
 Ta Kae,populated place,0.0
 Tacurong City,seat of a third-order administrative division,54648.0
 Marwar,populated place,14760.0
 Ortuella,populated place,8556.0
-Karabudakhkentsky  (District),"[None, None]","[None, None]"
+Karabudakhkentsky  (District),,
 Gasuapara,populated place,0.0
 Aswan,seat of a first-order administrative division,241261.0
 Comalpa,,
@@ -1713,7 +1713,7 @@ Mitu,seat of a first-order administrative division,5917.0
 Bhairahawa,airport,0.0
 Duduza,populated place,0.0
 Patong,populated place,14797.0
-Maiduguri district,"['seat of a first-order administrative division', 1112449]","['seat of a first-order administrative division', 1112449]"
+Maiduguri district,seat of a first-order administrative division,1112449
 Abakaliki,seat of a first-order administrative division,134102.0
 Vorenezh,,
 Viransehir,seat of a second-order administrative division,154163.0
@@ -1741,7 +1741,7 @@ Sibagat,populated place,4865.0
 Yaha (District),stream,0.0
 Al-Tawila,islands,0.0
 Nashville,seat of a first-order administrative division,530852.0
-Wazakhwa district,"['locality', 0]","['locality', 0]"
+Wazakhwa district,locality,0
 Adraskan,second-order administrative division,0.0
 Karuma,wildlife reserve,0.0
 Shaheedano Dhand,,
@@ -1751,7 +1751,7 @@ Sheikhupura,seat of a second-order administrative division,361303.0
 Wah,populated place,0.0
 Daganbhuiyan,third-order administrative division,0.0
 El Carmen district,populated place,7092.0
-Shaygal Wa Shiltan district,"[None, None]","[None, None]"
+Shaygal Wa Shiltan district,,
 Kamra,populated place,43779.0
 Tarhouna,locality,0.0
 Quedlinburg,populated place,22814.0
@@ -1763,14 +1763,14 @@ San Pascual,seat of a third-order administrative division,39395.0
 Ramat Gan,populated place,128095.0
 Banduan,populated place,0.0
 El Nispero,second-order administrative division,6422.0
-Panchthar district,"['third-order administrative division', 211098]","['third-order administrative division', 211098]"
+Panchthar district,third-order administrative division,211098
 Puente Piedra,locality,0.0
 Campo Alegre,populated place,16785.0
 Thanchi,third-order administrative division,0.0
 Muelle de los Bueyes,second-order administrative division,0.0
 Buur Dhuxunle,populated place,0.0
 Korydallos,seat of a third-order administrative division,63445.0
-Riyom district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Riyom district,second-order administrative division,0
 Troitskaya,populated place,6479.0
 El Tambo,second-order administrative division,45804.0
 Bunia,seat of a first-order administrative division,96764.0
@@ -1789,10 +1789,10 @@ Pinetown,populated place,0.0
 Ismail Khel,tribal area,0.0
 Azores,first-order administrative division,242902.0
 Cano Limon,port,0.0
-Bulobarde district,"[None, None]","[None, None]"
+Bulobarde district,,
 Huayhuash,mountains,0.0
 Sinai,first-order administrative division,164574.0
-Warri North district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Warri North district,second-order administrative division,0
 Al-Qubbah,populated place,24631.0
 Ben Gardane,populated place,13364.0
 Saint-Marc,populated place,66226.0
@@ -1801,7 +1801,7 @@ Salar,salt area,0.0
 Kanju,populated place,0.0
 Taywara,airfield,0.0
 Ziarat,second-order administrative division,100000.0
-Nertiti district,"[None, None]","[None, None]"
+Nertiti district,,
 Qadisiyah,first-order administrative division,908192.0
 Oktyabrskoye,populated place,0.0
 Pir Koti,locality,0.0
@@ -1809,7 +1809,7 @@ Bermeo,seat of a third-order administrative division,16937.0
 Jandol,stream,0.0
 Madain district,populated place,0.0
 Ekazhevo,populated place,25549.0
-Anar Dara district,"['seat of a second-order administrative division', 10023]","['seat of a second-order administrative division', 10023]"
+Anar Dara district,seat of a second-order administrative division,10023
 Ordu,seat of a first-order administrative division,116788.0
 Pittsburgh,seat of a second-order administrative division,304391.0
 Band Taimor,,
@@ -1833,7 +1833,7 @@ Tarra,second-order administrative division,10772.0
 Javea,populated place,31593.0
 Manogai,populated place,0.0
 Progreso,populated place,100810.0
-Kottom district,"[None, None]","[None, None]"
+Kottom district,,
 Jacksonville,seat of a second-order administrative division,868031.0
 Bagacay,populated place,3158.0
 tehran,capital of a political entity,7153309.0
@@ -1861,7 +1861,7 @@ Limavady,historical second-order administrative division,33900.0
 Lipa,populated place,38841.0
 Ghallanai,,
 Hizan district,locality,0.0
-Mimika district,"['second-order administrative division', 182001]","['second-order administrative division', 182001]"
+Mimika district,second-order administrative division,182001
 Chupaca,second-order administrative division,51340.0
 Janzour,,
 Las Flores,second-order administrative division,7335.0
@@ -1870,9 +1870,9 @@ Sagada,populated place,0.0
 Sadiyah district,populated place,0.0
 Mandan,populated place,0.0
 Yopal,seat of a first-order administrative division,61029.0
-Ovacik district,"['second-order administrative division', 3446]","['second-order administrative division', 3446]"
+Ovacik district,second-order administrative division,3446
 Khanukah,,
-Yangi Qala district,"['populated place', 6541]","['populated place', 6541]"
+Yangi Qala district,populated place,6541
 Kalu Khan,populated place,0.0
 Gamba,reservation,0.0
 El Ancer,populated place,0.0
@@ -1882,12 +1882,12 @@ Arzo,populated place,0.0
 Sonada,populated place,0.0
 Al-Badari,populated place,44132.0
 Cargese,populated place,1032.0
-Cantabria district,"['seat of a first-order administrative division', 182700]","['seat of a first-order administrative division', 182700]"
+Cantabria district,seat of a first-order administrative division,182700
 Malindi,populated place,118265.0
 Calabar,seat of a first-order administrative division,461796.0
 Lohardaga district,hill,0.0
 Kisumu,seat of a first-order administrative division,216479.0
-Corcona district,"['populated place', 525]","['populated place', 525]"
+Corcona district,populated place,525
 Izvaryne,populated place,0.0
 Muharraq,populated place,97458.0
 Onitsha,seat of a second-order administrative division,561066.0
@@ -1977,7 +1977,7 @@ Dornapal,,
 Tura,populated place,22600.0
 Padaviya,reserve,0.0
 Roncesvalles,second-order administrative division,6269.0
-Qaramqol district,"['populated place', 0]","['populated place', 0]"
+Qaramqol district,populated place,0
 Sandana,populated place,0.0
 Suran,populated place,0.0
 Hargeysa,seat of a first-order administrative division,477876.0
@@ -2012,22 +2012,22 @@ South Upi,populated place,5647.0
 Gagra,seat of a second-order administrative division,8266.0
 Sambat,populated place,0.0
 Eruh,second-order administrative division,19862.0
-Day Mirdad district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Day Mirdad district,second-order administrative division,0
 Hua Hin,populated place,50456.0
 Aiyoeweng,,
 Zangabad,populated place,0.0
 Cassino,seat of a third-order administrative division,21074.0
 Al-Obeidi,,
 Kinsibba,seat of a third-order administrative division,0.0
-Vedensky (District),"['hotel', 0]","['hotel', 0]"
+Vedensky (District),hotel,0
 Wokha,second-order administrative division,166343.0
 Ghatshila,populated place,40018.0
 Abobo,populated place,900000.0
 Raman (District),mountain,0.0
-Dhubab district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Dhubab district,second-order administrative division,0
 Rockford,seat of a second-order administrative division,148278.0
 Kherson,seat of a first-order administrative division,320477.0
-Genc district,"['second-order administrative division', 35958]","['second-order administrative division', 35958]"
+Genc district,second-order administrative division,35958
 El Tortuguero,second-order administrative division,0.0
 Kasik,populated place,0.0
 Morawaka,fourth-order administrative division,0.0
@@ -2039,7 +2039,7 @@ El Partido,airport,0.0
 Bir El Ater,populated place,68703.0
 Casiguran,seat of a third-order administrative division,8605.0
 San Antonio de Getucha,populated place,0.0
-Budgam District,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Budgam District,second-order administrative division,0
 Turbo district,locality,0.0
 Goaltore,populated place,0.0
 Libertad,seat of a first-order administrative division,747450.0
@@ -2088,7 +2088,7 @@ Charlotte,capital of a political entity,20000.0
 Luxor,seat of a first-order administrative division,422407.0
 Tulkarm,populated place,44169.0
 Kosovo Polje,plain(s),0.0
-Waslala district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Waslala district,second-order administrative division,0
 Myinlut,,
 Chaparral,airport,0.0
 Herzliya Pituah,section of populated place,10000.0
@@ -2101,13 +2101,13 @@ Lemorieta,populated place,0.0
 Mian Mandi,populated place,0.0
 Maruebo Ok,,
 Sig,populated place,58877.0
-Idil district,"['seat of a second-order administrative division', 22960]","['seat of a second-order administrative division', 22960]"
+Idil district,seat of a second-order administrative division,22960
 Las Palmas,seat of a first-order administrative division,381847.0
 Ferrol,seat of a third-order administrative division,74273.0
 Gandara,island,0.0
 Pisco,seat of a third-order administrative division,61869.0
 Hpa an,seat of a first-order administrative division,50000.0
-Chamkani district,"['populated place', 0]","['populated place', 0]"
+Chamkani district,populated place,0
 Dawalib,populated place,0.0
 Kozluk,populated place,0.0
 Puttur,populated place,30986.0
@@ -2124,7 +2124,7 @@ Tajoura,,
 Satih,area,0.0
 Kushk district,abandoned populated place,0.0
 Achuapa,second-order administrative division,0.0
-Welioya district,"[None, None]","[None, None]"
+Welioya district,,
 Zholobok,populated place,0.0
 Yopougon,populated place,0.0
 Hof Ashkelon regional council,,
@@ -2135,7 +2135,7 @@ Vukovar,seat of a first-order administrative division,29584.0
 Nala,first-order administrative division,1396849.0
 Tekeli,populated place,26678.0
 Gomazai,,
-Chawkay district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chawkay district,second-order administrative division,0
 Shlomi,populated place,5608.0
 Chorrillos,locality,0.0
 Kayaga,lake,0.0
@@ -2158,8 +2158,8 @@ Jubah,second-order administrative division,21093.0
 Tanyongmat,populated place,0.0
 Monqnawng,,
 Tunja,seat of a first-order administrative division,117479.0
-Mangajek district,"['populated place', 0]","['populated place', 0]"
-Ceel Buur district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Mangajek district,populated place,0
+Ceel Buur district,second-order administrative division,0
 Karukh,second-order administrative division,0.0
 Albu Rishah,populated place,0.0
 Sirba,third-order administrative division,0.0
@@ -2171,7 +2171,7 @@ Beit Lif,populated place,0.0
 Batulawan,populated place,0.0
 Chandpur,second-order administrative division,2416018.0
 Kiunga,airport,0.0
-Daychopan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Daychopan district,second-order administrative division,0
 Puente Alto,seat of a second-order administrative division,510417.0
 Cayenne,capital of a political entity,61550.0
 Nasir,seat of a first-order administrative division,0.0
@@ -2187,7 +2187,7 @@ Austin,seat of a first-order administrative division,931830.0
 Shkoder,seat of a first-order administrative division,88245.0
 Nambol,populated place,0.0
 Indianapolis,seat of a first-order administrative division,829718.0
-Lamjung district,"['mountain', 0]","['mountain', 0]"
+Lamjung district,mountain,0
 San Francisco Morazan,seat of a first-order administrative division,16152.0
 Hakmana,third-order administrative division,31464.0
 Riverside,seat of a second-order administrative division,322424.0
@@ -2206,7 +2206,7 @@ Ballynahinch,lake,0.0
 Machente,populated place,0.0
 Mus,seat of a first-order administrative division,82536.0
 Castleblayney,populated place,3006.0
-Keonjhar district,"['second-order administrative division', 1801733]","['second-order administrative division', 1801733]"
+Keonjhar district,second-order administrative division,1801733
 Sharawin,populated place,0.0
 Mouzaia,populated place,32981.0
 Concepcion Batres,populated place,3286.0
@@ -2216,7 +2216,7 @@ Campoalegre,second-order administrative division,32186.0
 Kayts,fourth-order administrative division,0.0
 Kunming,seat of a first-order administrative division,3855346.0
 Roxas,populated place,10879.0
-Damboa district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Damboa district,second-order administrative division,0
 Mavivi,,
 Nuseirat,populated place,36123.0
 Laredo,populated place,349550.0
@@ -2244,7 +2244,7 @@ Dugit,beach,0.0
 Lucciana,populated place,3713.0
 Reno,seat of a second-order administrative division,241445.0
 Chiffa,populated place,23218.0
-Grozny district,"['seat of a first-order administrative division', 226100]","['seat of a first-order administrative division', 226100]"
+Grozny district,seat of a first-order administrative division,226100
 Pore,populated place,0.0
 Les Cayes,seat of a first-order administrative division,125799.0
 Lille,seat of a first-order administrative division,228328.0
@@ -2268,7 +2268,7 @@ Samara,seat of a first-order administrative division,1134730.0
 Lubero,second-order administrative division,0.0
 Curillo,second-order administrative division,11121.0
 Mahas,populated place,0.0
-Kiziltepe district,"['seat of a second-order administrative division', 150174]","['seat of a second-order administrative division', 150174]"
+Kiziltepe district,seat of a second-order administrative division,150174
 Kiblawan,seat of a third-order administrative division,4464.0
 Talakivka,populated place,0.0
 Fika,second-order administrative division,0.0
@@ -2291,7 +2291,7 @@ Dijon,seat of a first-order administrative division,149782.0
 San Martin Jilotepeque,second-order administrative division,0.0
 Mestre,populated place,147662.0
 Samba,second-order administrative division,0.0
-Yarkand district,"['populated place', 82509]","['populated place', 82509]"
+Yarkand district,populated place,82509
 Katatura,,
 Saslaj,,
 Ambala,populated place,146787.0
@@ -2337,13 +2337,13 @@ Taftan,airport,0.0
 Jadran district,locality,0.0
 Bar Qambar Khel,tribal area,0.0
 Greensboro,populated place,285342.0
-Toribio district,"['seat of a second-order administrative division', 3911]","['seat of a second-order administrative division', 3911]"
+Toribio district,seat of a second-order administrative division,3911
 Ansar,populated place,0.0
 Zekri,populated place,0.0
 New Cairo,populated place,200000.0
 Pematang Siantar,second-order administrative division,234698.0
 Gikalo,populated place,0.0
-Douentza district,"['second-order administrative division', 247794]","['second-order administrative division', 247794]"
+Douentza district,second-order administrative division,247794
 Ulm,seat of a third-order administrative division,120451.0
 Bordj El Kiffan,populated place,123246.0
 Thana,populated place,1261517.0
@@ -2360,8 +2360,8 @@ Palma Gil,populated place,4894.0
 Beverly Hills,section of populated place,34869.0
 San Pedro del Norte,second-order administrative division,0.0
 Pianottoli-Caldarello,populated place,864.0
-Nawalparasi district,"['third-order administrative division', 621622]","['third-order administrative division', 621622]"
-Gamapaha district,"[None, None]","[None, None]"
+Nawalparasi district,third-order administrative division,621622
+Gamapaha district,,
 Battagram,seat of a second-order administrative division,700000.0
 Datu Salibo,third-order administrative division,14947.0
 Karachayevsk,populated place,20264.0
@@ -2379,14 +2379,14 @@ Shaffa,third-order administrative division,0.0
 Narbal,populated place,0.0
 Sheikhpura,second-order administrative division,636342.0
 Adjumani,seat of a second-order administrative division,28700.0
-Nazyan district,"['locality', 0]","['locality', 0]"
+Nazyan district,locality,0
 Dur Baba,second-order administrative division,0.0
 Reggio Calabria,seat of a second-order administrative division,169140.0
 Rampur,seat of a first-order administrative division,700133.0
 Goreswar,populated place,0.0
 Kanak,populated place,616.0
 Saint-Florent,populated place,1619.0
-El Tarra district,"['second-order administrative division', 10772]","['second-order administrative division', 10772]"
+El Tarra district,second-order administrative division,10772
 Pabna district,populated place,186781.0
 Verona,seat of a second-order administrative division,219103.0
 Resistencia,seat of a first-order administrative division,387158.0
@@ -2402,8 +2402,8 @@ Abonnema,seat of a second-order administrative division,0.0
 Ocotal district,section of populated place,0.0
 Yenakiieve,populated place,104101.0
 Otniel,,
-Lash Wa Juwayn district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Bahrami Shahid district,"['populated place', 0]","['populated place', 0]"
+Lash Wa Juwayn district,second-order administrative division,0
+Bahrami Shahid district,populated place,0
 Tomslake,populated locality,0.0
 Colonia,first-order administrative division,119249.0
 Sabunjiya,,
@@ -2420,7 +2420,7 @@ Mojokerto,populated place,112557.0
 Satipo,seat of a third-order administrative division,15532.0
 Pavona,locality,0.0
 Wellawaya,locality,0.0
-Huaura district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Huaura district,second-order administrative division,0
 Mamuzai,locality,0.0
 Lubo Yilai,,
 Gauripur,second-order administrative division,0.0
@@ -2435,7 +2435,7 @@ Gampaha,second-order administrative division,2146077.0
 Paddock,reserve,0.0
 Tora Warai,populated place,0.0
 Sheikh Hilal,populated place,0.0
-Krong Pinang ((District)),"['second-order administrative division', 24487]","['second-order administrative division', 24487]"
+Krong Pinang ((District)),second-order administrative division,24487
 Talaingod,third-order administrative division,27482.0
 Loy Bagh,mountain,0.0
 Nelliady,populated place,0.0
@@ -2472,7 +2472,7 @@ Catanzaro,seat of a first-order administrative division,78970.0
 Dolo,populated place,26748.0
 Am Surrah,populated place,0.0
 Mae Lan,second-order administrative division,14384.0
-Ercis district,"['seat of a second-order administrative division', 91915]","['seat of a second-order administrative division', 91915]"
+Ercis district,seat of a second-order administrative division,91915
 Albu Diab,section of populated place,0.0
 Babban Gida,seat of a second-order administrative division,0.0
 Inhamitanga,populated place,0.0
@@ -2512,7 +2512,7 @@ Nongoma,seat of a third-order administrative division,0.0
 Maldar,populated place,0.0
 Chilanga,second-order administrative division,0.0
 Becerril,second-order administrative division,13941.0
-Tessalit district,"['airport', 0]","['airport', 0]"
+Tessalit district,airport,0
 Hudur district,second-order administrative division,0.0
 Burgas,seat of a first-order administrative division,195966.0
 Abbasi,area,0.0
@@ -2596,7 +2596,7 @@ Kavala,seat of a second-order administrative division,54027.0
 Gari Suhbat Khan,,
 Castellano,locality,0.0
 Mpumalanga,first-order administrative division,3409743.0
-Guindulungan district,"['third-order administrative division', 19911]","['third-order administrative division', 19911]"
+Guindulungan district,third-order administrative division,19911
 Tuba,populated place,529176.0
 Neve Daniel,israeli settlement,0.0
 El Rama,second-order administrative division,0.0
@@ -2619,10 +2619,10 @@ Figari,airport,0.0
 Kharbat Aziz,,
 La Union district,populated place,178858.0
 Baska district,populated place,0.0
-Nawzad district,"['intermittent stream', 0]","['intermittent stream', 0]"
+Nawzad district,intermittent stream,0
 Qadis,second-order administrative division,0.0
 The Dalles,seat of a second-order administrative division,15340.0
-Hailakandi district,"['second-order administrative division', 659296]","['second-order administrative division', 659296]"
+Hailakandi district,second-order administrative division,659296
 Alkhan-Yurt,populated place,8879.0
 Vanimal,,
 Thatta,forest reserve,0.0
@@ -2644,7 +2644,7 @@ Cagwait,third-order administrative division,20384.0
 Witbank,seat of a third-order administrative division,262491.0
 Ichubamba,populated place,0.0
 Sonson,second-order administrative division,38779.0
-Itagui district,"['seat of a second-order administrative division', 281853]","['seat of a second-order administrative division', 281853]"
+Itagui district,seat of a second-order administrative division,281853
 Aija,second-order administrative division,0.0
 Nassau,capital of a political entity,227940.0
 Sochi,populated place,327608.0
@@ -2657,7 +2657,7 @@ Ergani,second-order administrative division,121072.0
 El Bordo,seat of a second-order administrative division,12072.0
 Harad,second-order administrative division,93000.0
 Komotini,seat of a first-order administrative division,45631.0
-Apurimac district,"['first-order administrative division', 418882]","['first-order administrative division', 418882]"
+Apurimac district,first-order administrative division,418882
 Jaba,second-order administrative division,0.0
 Rathfriland,populated place,2063.0
 Song,second-order administrative division,0.0
@@ -2687,13 +2687,13 @@ Burane,populated place,0.0
 Cajamarquilla,third-order administrative division,0.0
 Faridkot District,populated place,0.0
 Guaduas,second-order administrative division,31831.0
-Kajran district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kajran district,second-order administrative division,0
 San Luis de la Reina,populated place,0.0
 Kipolot,populated place,0.0
 San Juan del Norte,administrative division,0.0
 Penagos,hill,0.0
 Sri Ganganagar,populated place,231838.0
-Tocache district,"['populated place', 29029]","['populated place', 29029]"
+Tocache district,populated place,29029
 Todeng,,
 Ore,populated place,12269.0
 Magara,populated place,0.0
@@ -2711,7 +2711,7 @@ Farsi district,populated place,0.0
 Cabragh,populated place,0.0
 Nag Hammadi,populated place,41184.0
 Banepa,populated place,17153.0
-Hozat district,"['second-order administrative division', 6812]","['second-order administrative division', 6812]"
+Hozat district,second-order administrative division,6812
 Seruwawila,populated place,0.0
 Shenzen,hotel,0.0
 Wangjing,populated place,7528.0
@@ -2722,7 +2722,7 @@ Orio,airport,0.0
 Muang district,seat of a first-order administrative division,85000.0
 Chishti Sharif,,
 Ponte Gardena,seat of a third-order administrative division,157.0
-Marynsky district,"['theater', 0]","['theater', 0]"
+Marynsky district,theater,0
 Mando Zayi,,
 Kandao,pass,0.0
 Suwayda,seat of a first-order administrative division,59052.0
@@ -2742,7 +2742,7 @@ Antagarh,populated place,0.0
 Lumio,populated place,1008.0
 Homeka,,
 Badiabad,ruin(s),0.0
-Dawlat Yar district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Dawlat Yar district,second-order administrative division,0
 Rasulpur,populated place,0.0
 Bene Beraq,populated place,154400.0
 Mirchaiya,second-order administrative division,0.0
@@ -2752,8 +2752,8 @@ Kumbhariput,populated place,0.0
 lahore,seat of a first-order administrative division,6310888.0
 Sitamarhi,populated place,57095.0
 Haridwar,populated place,186079.0
-Shaygal district,"[None, None]","[None, None]"
-East Champaran district,"['second-order administrative division', 5099371]","['second-order administrative division', 5099371]"
+Shaygal district,,
+East Champaran district,second-order administrative division,5099371
 Adam Khan,locality,0.0
 Sin El Fil,populated place,0.0
 Bari,seat of a first-order administrative division,277387.0
@@ -2765,7 +2765,7 @@ Bekkersdal,populated place,0.0
 Hacari,second-order administrative division,10121.0
 Chah Ab district,populated place,0.0
 Dhalbhumgarh,,
-Habeila district,"['intermittent stream', 0]","['intermittent stream', 0]"
+Habeila district,intermittent stream,0
 Ain El Hamra,locality,0.0
 Patae,stream,0.0
 Lower Tungawan,seat of a third-order administrative division,3603.0
@@ -2808,9 +2808,9 @@ Bayt Sahur,populated place,14921.0
 Imperial,populated place,40053.0
 Al-Abbasi,populated place,0.0
 Moghul,populated place,0.0
-Kuran Wa Munjan district,"['mountain', 0]","['mountain', 0]"
+Kuran Wa Munjan district,mountain,0
 El Affroun,populated place,42627.0
-Ahmad Abad district,"['park', 0]","['park', 0]"
+Ahmad Abad district,park,0
 Taguig,seat of a third-order administrative division,644473.0
 Milton Keynes,seat of a second-order administrative division,229941.0
 Mamasapano,fifth-order administrative division,0.0
@@ -2838,7 +2838,7 @@ Emdeni,populated place,0.0
 Spinwam,populated place,0.0
 Mehrabpur,populated place,35263.0
 Amarkot,populated place,0.0
-Tere Zayi district,"[None, None]","[None, None]"
+Tere Zayi district,,
 Kalamazoo,seat of a second-order administrative division,76041.0
 Gangalur,populated place,0.0
 Ayodhya,populated place,53293.0
@@ -2853,7 +2853,7 @@ Mariam Bek,,
 Socorro,populated place,163993.0
 Nizhniye Achaluki,populated place,5247.0
 Pachchanur,populated place,0.0
-Khasavyurt district,"['seat of a second-order administrative division', 126829]","['seat of a second-order administrative division', 126829]"
+Khasavyurt district,seat of a second-order administrative division,126829
 Salbani,locality,0.0
 Rosh Haayin,populated place,39215.0
 Zouerat,seat of a first-order administrative division,38000.0
@@ -2900,24 +2900,24 @@ Ghoriwala,populated place,0.0
 Kothi,populated place,0.0
 Fafi,locality,0.0
 Tago,seat of a third-order administrative division,6300.0
-Pucara District,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Pucara District,second-order administrative division,0
 Kuakonda,populated place,0.0
 Aksu district,populated place,0.0
 Sharpeville,populated place,0.0
-Shalinsky (District),"['third-order administrative division', 0]","['third-order administrative division', 0]"
+Shalinsky (District),third-order administrative division,0
 Esikhawini,populated place,49265.0
 Washuk,second-order administrative division,0.0
-Cartagena district,"['seat of a first-order administrative division', 952024]","['seat of a first-order administrative division', 952024]"
+Cartagena district,seat of a first-order administrative division,952024
 Sumapaz,upland,0.0
-Patikul district,"['third-order administrative division', 62287]","['third-order administrative division', 62287]"
+Patikul district,third-order administrative division,62287
 Jocotan,second-order administrative division,0.0
 Mellit,hill,0.0
-Chanchamayo district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chanchamayo district,second-order administrative division,0
 Garrison,basin,0
-Dhemaji district,"['second-order administrative division', 686133]","['second-order administrative division', 686133]"
+Dhemaji district,second-order administrative division,686133
 Marquina,second-order administrative division,0
 Risalpur,populated place,37084
-Ituri district,stream,0
+Ituri district,first-order administrative division,0
 Souk El Had,locality,0
 Kinawley,populated place,0
 Guinobatan,third-order administrative division,82361
@@ -2946,12 +2946,12 @@ Yaaq Bari Weyne,populated place,0
 Nihessiue,populated place,0
 Kostiantynivka,second-order administrative division,18113
 San Pedro de Cachi,populated place,0
-Pervari district,"['second-order administrative division', 33505]","['second-order administrative division', 33505]"
+Pervari district,second-order administrative division,33505
 Kotki,populated place,0
 Bordumsa,,
 Patulul,second-order administrative division,0
 Chisec,second-order administrative division,0
-Siirt district,second-order administrative division,19862
+Siirt district,seat of a first-order administrative division,114034
 Yingo,seat of a second-order administrative division,0
 Lantawan,fourth-order administrative division,0
 Chaharbagh,populated place,0
@@ -2975,23 +2975,23 @@ Nhamatanda district,second-order administrative division,0
 Plymouth,seat of a second-order administrative division,260203
 Cheringoma district,second-order administrative division,0
 Rosas,second-order administrative division,12666
-Shibirghan district,"['seat of a first-order administrative division', 55641]","['seat of a first-order administrative division', 55641]"
-Puerto Berrio district,"['airport', 0]","['airport', 0]"
+Shibirghan district,seat of a first-order administrative division,55641
+Puerto Berrio district,airport,0
 Camalig,third-order administrative division,66904
 Omiya,administrative division,0
 Kalamansig,populated place,12821
-Argelia district,second-order administrative division,0
+Argelia district,independent political entity,34586184
 Anitapan,fourth-order administrative division,0
 Magude,second-order administrative division,0
 Betania,second-order administrative division,10246
 Norman,seat of a second-order administrative division,120284
 Nunavil,populated place,0
 San Mateo Ixtatan,second-order administrative division,0
-Nalbari district,populated place,0
+Nalbari district,second-order administrative division,771639
 Nyanzale,,
 Alizai,tribal area,0
 Wucha Bibi,populated place,0
-Miya Nishin district,"[None, None]","[None, None]"
+Miya Nishin district,,
 Chitral,second-order administrative division,0
 Koil,locality,0
 Krasna Talivka,populated place,0
@@ -3012,7 +3012,7 @@ Shah Alam,populated place,481654
 Cerritos,second-order administrative division,0
 San Juan de Cesar,second-order administrative division,33654
 Mutura,populated locality,0
-Kaldar district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kaldar district,second-order administrative division,0
 Jagdalpur,populated place,76465
 Kaga-Bandoro,seat of a first-order administrative division,56520
 Ternate,populated place,101731
@@ -3037,8 +3037,8 @@ Miaga,populated place,2149
 Makhmour,,
 Sutayh,populated place,0
 Lincoln,seat of a first-order administrative division,277348
-Hoshiapur district,"[None, None]","[None, None]"
-Mayo (District),area,0
+Hoshiapur district,,
+Mayo (District),first-order administrative division,1120612
 Calarca,seat of a second-order administrative division,62170
 Pavlopil,populated place,0
 Awapalli,,
@@ -3058,7 +3058,7 @@ West Palm Beach,seat of a second-order administrative division,106779
 Mata Khan,seat of a second-order administrative division,0
 Garbaharey,second-order administrative division,0
 Gan Yavne,populated place,22453
-Guwahati district,populated place,17516
+Guwahati district,populated place,899094
 Abu Adh Dhuhur,,
 Athba,,
 Khanasser,hill,0
@@ -3069,12 +3069,12 @@ Kukawa,second-order administrative division,0
 Villava,third-order administrative division,10496
 Gortin,populated place,0
 Karabilah,populated place,0
-Tambo district,second-order administrative division,1862218
+Tambo district,second-order administrative division,2319
 Sonagazi,third-order administrative division,0
 Avtury,populated place,18370
 Kaninkon,third-order administrative division,0
 Belatikri,,
-Warri South-West district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Warri South-West district,second-order administrative division,0
 Kalkudah,populated place,0
 Damour,populated place,0
 San Andres de Sotavento,second-order administrative division,63147
@@ -3084,11 +3084,11 @@ Escalante,second-order administrative division,143609
 Vischongo,third-order administrative division,0
 Adre,populated place,11928
 Sarodag,populated place,0
-Maqsha,populated place,0
+Maqsha,gap,0
 Rangia,populated place,26388
 Mehola,israeli settlement,0
 Al-Arifiyah,locality,0
-Kifri district,populated place,0
+Kifri district,seat of a second-order administrative division,30143
 Kauran,second-order administrative division,0
 Barira,populated place,0
 Tucson,seat of a second-order administrative division,531641
@@ -3097,7 +3097,7 @@ Kayomati,,
 Suleja,seat of a second-order administrative division,162135
 Solhan,second-order administrative division,33535
 Schwabisch Gmund,populated place,61338
-Dara-i-Pech district,"['locality', 0]","['locality', 0]"
+Dara-i-Pech district,locality,0
 Al-Hamamiyat,populated place,0
 Viqueque,first-order administrative division,70177
 Jinja,seat of a first-order administrative division,93061
@@ -3111,7 +3111,7 @@ Cunday,populated place,2082
 La Dorada,seat of a second-order administrative division,81950
 Corozal,seat of a first-order administrative division,9871
 Oviedo,seat of a first-order administrative division,224005
-Udalguri district,populated place,0
+Udalguri district,second-order administrative division,831668
 Bahrain,independent political entity,738004
 Tverskoy,populated place,0
 Rostov-on-Don,seat of a first-order administrative division,1074482
@@ -3129,15 +3129,15 @@ Lucanamarca,populated place,0
 Doron Baga,,
 Katipunan,third-order administrative division,45577
 Bani Bangou,populated place,0
-Budgam district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Amarilis district,"['third-order administrative division', 0]","['third-order administrative division', 0]"
+Budgam district,second-order administrative division,0
+Amarilis district,third-order administrative division,0
 Tébessa,seat of a first-order administrative division,634332
 Belbari,second-order administrative division,0
 Macari,area,0
 Kodaikallar,,
 Huyum,populated place,0
 Pidie,second-order administrative division,397698
-San Jose de Ticllas district,"['third-order administrative division', 0]","['third-order administrative division', 0]"
+San Jose de Ticllas district,third-order administrative division,0
 Ciudad Real,seat of a second-order administrative division,74014
 Chibuk,hill,0
 Pomona,populated place,153266
@@ -3145,15 +3145,15 @@ Balingasag,seat of a third-order administrative division,9722
 Fateh Jang,locality,0
 El Guabo,second-order administrative division,0
 Dhubri,second-order administrative division,1949258
-Puerto Boyaca district,"['seat of a second-order administrative division', 27310]","['seat of a second-order administrative division', 27310]"
+Puerto Boyaca district,seat of a second-order administrative division,27310
 Berne,capital of a political entity,121631
 Rajapalayam,populated place,124168
 El Monte,populated place,116732
 Rasharkin,populated place,0
-Maton district,populated place,0
-Huanuco district,"['seat of a first-order administrative division', 147959]","['seat of a first-order administrative division', 147959]"
+Maton district,second-order administrative division,0
+Huanuco district,seat of a first-order administrative division,147959
 Sidi Bakhti,populated place,0
-Rustaq district,"['populated place', 79383]","['populated place', 79383]"
+Rustaq district,populated place,79383
 Kambiron,,
 Chilca,lake,0
 Port Loko,populated place,21308
@@ -3169,9 +3169,9 @@ Gekhi,populated place,9714
 Karimganj,populated place,55290
 Kokkadichcholai,populated place,0
 Ulcumayo,third-order administrative division,0
-Arish district,populated place,0
+Arish district,seat of a first-order administrative division,128855
 Binan,seat of a third-order administrative division,300000
-Waeng ((District)),"['second-order administrative division', 38388]","['second-order administrative division', 38388]"
+Waeng ((District)),second-order administrative division,38388
 Hazro,second-order administrative division,17220
 Dharampur,second-order administrative division,0
 Saba Yoi,second-order administrative division,65920
@@ -3180,7 +3180,7 @@ Shahabuddin,populated place,0
 Dattykh,populated place,0
 Claremont,second-order administrative division,10359
 Yitzhar,israeli settlement,0
-Kishtwar district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kishtwar district,second-order administrative division,0
 San Simon,airport,0
 Camden,seat of a second-order administrative division,76119
 Mambasa,seat of a first-order administrative division,799668
@@ -3201,7 +3201,7 @@ Pajarito,second-order administrative division,2410
 Jhenaidah district,second-order administrative division,1771304
 Fort Lauderdale,seat of a second-order administrative division,178590
 Travnik,seat of a second-order administrative division,31127
-Fray Bartolome de las Casas district.,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Fray Bartolome de las Casas district.,second-order administrative division,0
 Ara,first-order administrative division,84584
 Camoapa,second-order administrative division,0
 Lasbela,second-order administrative division,313405
@@ -3232,7 +3232,7 @@ Aflou,populated place,84683
 Vista Alegre,locality,0
 Basud,mountains,0
 Las Mercedes,second-order administrative division,0
-Nawada district,populated place,0
+Nawada district,populated place,96730
 Socos,locality,0
 Jiribam,second-order administrative division,0
 Satkhira,populated place,128918
@@ -3247,14 +3247,14 @@ Jonesborough,seat of a second-order administrative division,5291
 College Park,populated place,32301
 Liege,populated place,182597
 Paidu Pulangi,populated place,0
-Polonnaruwa district,second-order administrative division,368458
+Polonnaruwa district,populated place,13900
 Sanghar,second-order administrative division,0
-Riyadh district,seat of a third-order administrative division,0
+Riyadh district,capital of a political entity,4205961
 Ain Tagourait,mountain,0
 Igbodu,populated place,0
 Bati Kot,second-order administrative division,0
 Nawada,populated place,96730
-Jawand district,"['locality', 0]","['locality', 0]"
+Jawand district,locality,0
 Pulumur,second-order administrative division,3580
 Satkhira district,populated place,128918
 Chihuahua,seat of a first-order administrative division,809232
@@ -3268,10 +3268,10 @@ Misliyeh,,
 Ouzra,hill,0
 Mandur,populated place,0
 Pachir Wa Agam,second-order administrative division,0
-Miranda district,second-order administrative division,0
+Miranda district,first-order administrative division,2675165
 Mansouriyeh,,
 Quaidabad,populated place,0
-Sultan Khel,tribal area,0
+Sultan Khel,populated place,0
 Paz de Ariporo,second-order administrative division,27146
 Ciudad Altamirano,seat of a second-order administrative division,24533
 Uzumlu,second-order administrative division,11603
@@ -3292,7 +3292,7 @@ Masagua,second-order administrative division,0
 Mamundioma,,
 Nesterovskaya,populated place,19186
 Karak district,first-order administrative division,207335
-Chibok district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chibok district,second-order administrative division,0
 Charar-i-Sharif,populated place,8036
 Churanchandpur,,
 Al Bira,populated place,38192
@@ -3302,7 +3302,7 @@ Gudar,populated place,0
 Erandio,seat of a third-order administrative division,24262
 Aranthalawa,,
 Oru,seat of a first-order administrative division,208684
-Washir district,"['populated place', 0]","['populated place', 0]"
+Washir district,populated place,0
 Gulistan,seat of a first-order administrative division,53373
 Al-Zubair district,seat of a second-order administrative division,122676
 Ballyronan,populated place,0
@@ -3310,7 +3310,7 @@ Rio Verde,seat of a second-order administrative division,36153
 Bugarama,second-order administrative division,0
 Linz,seat of a first-order administrative division,204846
 Porac,populated place,0
-Joh I Rong (District),"[None, None]","[None, None]"
+Joh I Rong (District),,
 Cerro de Guazapa,mountain,0
 Bununu,populated place,6123
 Ratae,populated place,0
@@ -3341,7 +3341,7 @@ Diafarabe,populated place,0
 Geesthacht,populated place,29487
 Safay,populated place,0
 Hagadera,locality,0
-Monguno district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Monguno district,second-order administrative division,0
 Lisbellaw,populated place,0
 Sidi Abdelaziz,populated place,0
 Garmser,second-order administrative division,0
@@ -3355,7 +3355,7 @@ Ruhengeri,populated place,86685
 Fussa,seat of a second-order administrative division,62296
 Mar Gat,hill,0
 Joplin,populated place,51818
-Hobo,second-order administrative division,6545
+Hobo,seat of a second-order administrative division,4444
 Shalozan,populated place,0
 Edinburgh,seat of a first-order administrative division,464990
 Famagusta,seat of a first-order administrative division,42526
@@ -3363,7 +3363,7 @@ Azzefoun,populated place,0
 Piedecuesta,populated place,86387
 Margherita,peak,0
 Chagai district,second-order administrative division,202562
-Barama,populated place,0
+Barama,stream,0
 Chawkay,second-order administrative division,0
 Yamu,lake,0
 Korchi,area,0
@@ -3394,7 +3394,7 @@ Puerto Nuevo,second-order administrative division,0
 Bamba,seat of a first-order administrative division,12691836
 Nisatta,populated place,0
 Khujand,seat of a first-order administrative division,144865
-Achi district,populated place,0
+Achi district,second-order administrative division,19644
 Tipo Tipo,mountain,0
 Karliova,second-order administrative division,32212
 Randalstown,populated place,5378
@@ -3403,7 +3403,7 @@ Tecpan,second-order administrative division,0
 Hialeah,populated place,237069
 Beitbridge,populated place,26459
 Kedumim,park,0
-Southern Ijaw district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Southern Ijaw district,second-order administrative division,0
 Matiranga,third-order administrative division,0
 Satica,peak,0
 Juigalpa,seat of a first-order administrative division,54731
@@ -3431,7 +3431,7 @@ Gambat,area,0
 Arabia,region,61540000
 Aceh Besar Regency,,
 La Sirena,locality,0
-Shah Joy district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Shah Joy district,second-order administrative division,0
 Matola,seat of a first-order administrative division,675422
 Vegachi,second-order administrative division,11293
 Sakhakot,populated place,0
@@ -3456,13 +3456,13 @@ Gorongosa,second-order administrative division,0
 Jafarabad,second-order administrative division,700000
 Guarne,seat of a second-order administrative division,14270
 San Jose de Cusmapa,second-order administrative division,0
-Luntai district,factory,0
+Luntai district,seat of a third-order administrative division,0
 Beir Al-Abd,,
 Waz-i-Jadran,,
 Rourkela,airport,0
 Lumding,populated place,25283
 Tacoma,seat of a second-order administrative division,207948
-Baglar district,"['second-order administrative division', 357727]","['second-order administrative division', 357727]"
+Baglar district,second-order administrative division,357727
 Tanda,seat of a first-order administrative division,404901
 Relizane,seat of a first-order administrative division,130094
 Damagum,third-order administrative division,0
@@ -3471,7 +3471,7 @@ Bislig,seat of a third-order administrative division,67567
 Kolea,populated place,31816
 Damurhuda,third-order administrative division,0
 Santa Elena del Opon,second-order administrative division,4473
-Sai Buri ((District)),"['seat of a first-order administrative division', 219164]","['seat of a first-order administrative division', 219164]"
+Sai Buri ((District)),seat of a first-order administrative division,219164
 Bilis Qooqaani,populated place,0
 Kharlachi,populated place,0
 Brcko,seat of a first-order administrative division,38968
@@ -3485,7 +3485,7 @@ Behsud,locality,0
 Lower Dir,second-order administrative division,0
 Bayog,populated place,4284
 Fino,seat of a third-order administrative division,8398
-Bagan,locality,0
+Bagan,populated place,5803
 Spin Ghbarg,,
 Boksburg,populated place,445168
 Ash Shihr,second-order administrative division,73482
@@ -3501,7 +3501,7 @@ Malimono,third-order administrative division,18054
 El Tumbador,second-order administrative division,0
 Derriaghy,railroad station,0
 L'Aquila,seat of a first-order administrative division,33691
-Pelaya district,"['seat of a second-order administrative division', 11306]","['seat of a second-order administrative division', 11306]"
+Pelaya district,seat of a second-order administrative division,11306
 Balghali,populated place,0
 Gatumba,populated place,0
 Al Fashir,seat of a first-order administrative division,252609
@@ -3518,13 +3518,13 @@ Suntah,well,0
 Sajariyah,,
 Sariaya,populated place,44977
 Gramkan,,
-Sayid Karam district,"[None, None]","[None, None]"
+Sayid Karam district,,
 Karranah,populated place,0
 Ghanikhel,populated place,0
 Parma,seat of a second-order administrative division,146299
-Barpeta district,"['populated place', 48824]","['populated place', 48824]"
-Barbacoas district,"['second-order administrative division', 30270]","['second-order administrative division', 30270]"
-Krong Pi Nung district,"[None, None]","[None, None]"
+Barpeta district,populated place,48824
+Barbacoas district,second-order administrative division,30270
+Krong Pi Nung district,,
 Volklingen,populated place,41132
 Dayr al Balah,seat of a second-order administrative division,59504
 Yumbis,,
@@ -3549,7 +3549,7 @@ Musulmani,mountain,0
 Mill Valley,populated place,14394
 Burgi,locality,0
 Mithri,populated place,0
-Mai Kaen district,"['second-order administrative division', 10257]","['second-order administrative division', 10257]"
+Mai Kaen district,second-order administrative division,10257
 Madadeni,populated place,0
 Sirvan,seat of a first-order administrative division,70220
 Yolombo,second-order administrative division,20025
@@ -3559,12 +3559,12 @@ Kibirizi,third-order administrative division,0
 Bakhdida,populated place,50000
 La Concepcion,seat of a first-order administrative division,215413
 Oyskhara,populated place,12795
-Tumaco district,"['seat of a second-order administrative division', 86713]","['seat of a second-order administrative division', 86713]"
+Tumaco district,seat of a second-order administrative division,86713
 Rajgal,locality,0
 Bukit,hill,0
 Maatkas,,
 Walasmulla,populated place,0
-Anantnag District,"['populated place', 79821]","['populated place', 79821]"
+Anantnag District,populated place,79821
 Mymemsingh,,
 Nes Ziyyona,populated place,38700
 El Calvario,second-order administrative division,2288
@@ -3574,10 +3574,10 @@ Gubio,second-order administrative division,0
 Imaghninene,,
 Khewa,populated place,0
 Zaqatala,seat of a first-order administrative division,18277
-Bagrami district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Bagrami district,second-order administrative division,0
 Huatasani,third-order administrative division,0
 Montemor-o-Novo,second-order administrative division,0
-Masayi district,"[None, None]","[None, None]"
+Masayi district,,
 Rshaf,populated place,0
 Palmayoc,mountain,0
 Kuma,populated place,0
@@ -3598,11 +3598,11 @@ Mirandilla,seat of a third-order administrative division,1363
 Tete,seat of a first-order administrative division,129316
 Ain Issa,populated place,0
 Lingayen,seat of a third-order administrative division,56580
-Datu Saudi-Ampatuan district,"['third-order administrative division', 26427]","['third-order administrative division', 26427]"
+Datu Saudi-Ampatuan district,third-order administrative division,26427
 Shumy,populated place,0
-Kismayo district,second-order administrative division,0
-Pachir Wa Agam district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Bor district,seat of a second-order administrative division,39387
+Kismayo district,seat of a first-order administrative division,234852
+Pachir Wa Agam district,second-order administrative division,0
+Bor district,seat of a first-order administrative division,26782
 Bornova,second-order administrative division,426490
 Sitapala,populated place,0
 El Cobre,populated place,4768
@@ -3635,14 +3635,14 @@ Nartkala,populated place,33390
 Siraha,second-order administrative division,0
 Wajihiyah district,populated place,0
 Akcay,populated place,0
-Panjab district,populated place,1092450
+Panjab district,first-order administrative division,27743338
 Callejon de Huaylas,valley,0
 Paghman,populated place,49157
-Kharwar district,populated place,0
+Kharwar district,second-order administrative division,0
 Cervantes,locality,0
-Tuquerres,second-order administrative division,41380
+Tuquerres,seat of a second-order administrative division,20184
 Abonema,seat of a second-order administrative division,0
-Coromoro district,"['populated place', 1010]","['populated place', 1010]"
+Coromoro district,populated place,1010
 Maiaca,mountain,0
 Saqqez,populated place,151237
 Guayama,first-order administrative division,45362
@@ -3650,7 +3650,7 @@ Bongabon,seat of a third-order administrative division,36168
 Barwal,populated place,0
 La Mascota,locality,0
 Yehud,populated place,25600
-Udayn district,"['second-order administrative division', 143578]","['second-order administrative division', 143578]"
+Udayn district,second-order administrative division,143578
 Murakati,populated place,0
 Dax,seat of a third-order administrative division,22305
 Wazir Manda,,
@@ -3681,7 +3681,7 @@ Shah Mansour,,
 Sittwe,seat of a first-order administrative division,177743
 Jicaro,second-order administrative division,0
 Zango,second-order administrative division,0
-Ngimi district,"['populated place', 0]","['populated place', 0]"
+Ngimi district,populated place,0
 Herhanj,populated place,0
 Rabia,mountains,0
 Sequeslambra,,
@@ -3700,18 +3700,18 @@ Santa Maria Ostuma,populated place,0.0
 Leioa,populated place,31197.0
 Gulbahar,section of populated place,0.0
 Koro,sea,0.0
-Somotillo district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Somotillo district,seat of a second-order administrative division,15385
 Dilli,seat of a first-order administrative division,10927986.0
 Markanar,populated place,0.0
 Kirovske,second-order administrative division,51244.0
 La Fonseca,second-order administrative division,26831.0
 Eureka,second-order administrative division,1987.0
 Gourma Rharous,second-order administrative division,111386.0
-Mata Khan district,"['seat of a second-order administrative division', 0]","['seat of a second-order administrative division', 0]"
+Mata Khan district,seat of a second-order administrative division,0
 Oklahoma City,seat of a first-order administrative division,631346.0
 Jaji,political entity,90812.0
 Kaliachak,populated place,0.0
-Kalabalge district,"[None, None]","[None, None]"
+Kalabalge district,,
 Maidani,populated place,0.0
 Maradah,populated place,2229.0
 Milihoi,,
@@ -3738,7 +3738,7 @@ Barang,locality,0.0
 Dhoobley,,
 Malangwa,populated place,0.0
 Bellavista,second-order administrative division,0.0
-Warri South district,"['seat of a second-order administrative division', 536023]","['seat of a second-order administrative division', 536023]"
+Warri South district,seat of a second-order administrative division,536023
 Jand,seat of a first-order administrative division,144865.0
 Nani,populated place,0.0
 Faizabad district,populated place,153047.0
@@ -3749,7 +3749,7 @@ Bara Bandai,populated place,0.0
 Erigavo,mountain,0.0
 Laukkai,,
 Mae Laen,locality,0.0
-Asillo district,"['third-order administrative division', 0]","['third-order administrative division', 0]"
+Asillo district,third-order administrative division,0
 Motihari,populated place,112144.0
 Gerille,school,0.0
 Sakrand,populated place,31630.0
@@ -3837,10 +3837,10 @@ Todka,populated place,0.0
 Khak Chopan,populated place,0.0
 Chawmanu,,
 Pistoia,seat of a second-order administrative division,73832.0
-Dihrawud district,"[None, None]","[None, None]"
+Dihrawud district,,
 Vankalai,populated place,0.0
 Salta,seat of a first-order administrative division,512686.0
-Mihtarlam district,"['seat of a first-order administrative division', 17345]","['seat of a first-order administrative division', 17345]"
+Mihtarlam district,seat of a first-order administrative division,17345
 Bururi,seat of a first-order administrative division,19740.0
 Puri,populated place,170841.0
 Offenbach,seat of a third-order administrative division,119192.0
@@ -3868,7 +3868,7 @@ Nachou,spur(s),0.0
 Paramus,populated place,26974.0
 Bagh,locality,0.0
 Karaj,seat of a first-order administrative division,1448075.0
-Karakocan district,"['second-order administrative division', 29061]","['second-order administrative division', 29061]"
+Karakocan district,second-order administrative division,29061
 Northridge,section of populated place,68469.0
 Kundar,second-order administrative division,0.0
 Gouripur,populated place,0.0
@@ -3882,10 +3882,10 @@ Laudium,populated place,0.0
 Eisenhuttenstadt,seat of a fourth-order administrative division,32052.0
 Cholnar,populated place,0.0
 Liang,seat of a first-order administrative division,367353.0
-Amvrosiivksy district,"[None, None]","[None, None]"
+Amvrosiivksy district,,
 Utrecht,seat of a first-order administrative division,290529.0
 Linzo Sisene,,
-Wokha district,"['second-order administrative division', 166343]","['second-order administrative division', 166343]"
+Wokha district,second-order administrative division,166343
 Noshki,,
 Dadsara,,
 Rosh Hanikra,park,0.0
@@ -3908,12 +3908,12 @@ Gichak,mountain,0.0
 Narashino,second-order administrative division,165190.0
 Akbarpura,populated place,0.0
 Suriyawewa,third-order administrative division,0.0
-Kagizman district,"['second-order administrative division', 47445]","['second-order administrative division', 47445]"
+Kagizman district,second-order administrative division,47445
 Juli,point,0.0
 "Cebollal, El",mountain,0.0
 Venecia,first-order administrative division,1234079.0
 As Sahul,third-order administrative division,0.0
-Bad Pakh district,"['populated place', 0]","['populated place', 0]"
+Bad Pakh district,populated place,0
 Caqueza,second-order administrative division,16442.0
 Pader district,second-order administrative division,0.0
 Rio Tuna,stream,0.0
@@ -3921,9 +3921,9 @@ Sanghar district,second-order administrative division,0.0
 Alobo,fourth-order administrative division,0.0
 Keegam,,
 Baka Khel,populated place,0.0
-San Sebastian de Yali district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+San Sebastian de Yali district,second-order administrative division,0
 Spera district,lake,0.0
-Kahmard district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kahmard district,second-order administrative division,0
 Niangara,populated place,0.0
 Rutana,seat of a first-order administrative division,20893.0
 Bagmara,locality,0.0
@@ -3932,7 +3932,7 @@ Ranji,populated place,0.0
 Pampas,region,0.0
 Weather Coast,populated locality,3800.0
 Ballykelly,populated place,1735.0
-Dinsor district,"['populated place', 0]","['populated place', 0]"
+Dinsor district,populated place,0
 Gadid,locality,0.0
 El Penon,mountain,0.0
 Tangkura,point,0.0
@@ -3941,7 +3941,7 @@ Kawfil,populated place,0.0
 Palnar,populated place,0.0
 Daloa,seat of a first-order administrative division,215652.0
 El Portillo,populated place,0.0
-At Taiziyah district,"[None, None]","[None, None]"
+At Taiziyah district,,
 Kafr el-Sheikh,first-order administrative division,3093754.0
 Ladysmith,airport,0.0
 Satila,populated place,0.0
@@ -3973,15 +3973,15 @@ El Adde,populated place,0.0
 Zainapora,,
 Qantara Gharb,second-order administrative division,0.0
 Leer district,populated place,0.0
-Khugyani district,"['area', 0]","['area', 0]"
+Khugyani district,area,0
 Chapa Dara,,
-Ruso ((District)),"['cape', 0]","['cape', 0]"
+Ruso ((District)),cape,0
 Arib,populated place,0.0
 Malveira,populated place,4747.0
 Panali,populated place,0.0
 Mahin,populated place,0.0
 Ogden,seat of a second-order administrative division,85444.0
-Trujillo district,"['seat of a first-order administrative division', 747450]","['seat of a first-order administrative division', 747450]"
+Trujillo district,seat of a first-order administrative division,747450
 Habban,populated place,0.0
 Zaytseve,populated place,0.0
 Zalayah,,
@@ -3989,7 +3989,7 @@ Larnoo,,
 Sirtych,,
 San Pedro de Lovago,second-order administrative division,0.0
 El Cardon,populated place,58926.0
-Watapur district,"['populated place', 0]","['populated place', 0]"
+Watapur district,populated place,0
 Toshkivka,populated place,4926.0
 Ghajar,populated place,0.0
 Pibor,seat of a first-order administrative division,0.0
@@ -4001,7 +4001,7 @@ Bishnah,populated place,11645.0
 Buca,second-order administrative division,454112.0
 Podujevo,seat of a second-order administrative division,35000.0
 Mukjar,populated place,0.0
-La Montanita district,"['second-order administrative division', 22181]","['second-order administrative division', 22181]"
+La Montanita district,second-order administrative division,22181
 Sawombung,,
 Nowgam,,
 Vellaveli,populated place,0.0
@@ -4016,7 +4016,7 @@ Dara Adam Khel,,
 Doruma,populated place,0.0
 Tinte,forest reserve,0.0
 Urmia,seat of a first-order administrative division,577307.0
-Dailekh district,"['seat of a third-order administrative division', 20908]","['seat of a third-order administrative division', 20908]"
+Dailekh district,seat of a third-order administrative division,20908
 Ezo,island,5500000.0
 Torghar,mountain,0.0
 Kamari,field(s),0.0
@@ -4026,14 +4026,14 @@ San Bernardo,populated place,743372.0
 Benoy-Vedeno,populated place,0.0
 Chintur,,
 San Anton,second-order administrative division,0.0
-Buraiqeh district,"['second-order administrative division', 62405]","['second-order administrative division', 62405]"
+Buraiqeh district,second-order administrative division,62405
 Sayid Karam,,
 Bandar Abbas,seat of a first-order administrative division,352173.0
 Decani,seat of a second-order administrative division,50500.0
 Rogberi,populated place,0.0
 Colombia district,seat of a first-order administrative division,133803.0
 Muntinlupa,third-order administrative division,504509.0
-Jabal Saraj district,"['populated place', 15032]","['populated place', 15032]"
+Jabal Saraj district,populated place,15032
 Sea Island,capital of a political entity,53300.0
 Padilla,second-order administrative division,0.0
 Baraya district,plain(s),0.0
@@ -4056,7 +4056,7 @@ Kamlapur,populated place,0.0
 Karwangah,area,0.0
 Manampitiya,locality,0.0
 Balas,populated place,0.0
-Kaski district,"['third-order administrative division', 416161]","['third-order administrative division', 416161]"
+Kaski district,third-order administrative division,416161
 Muniguda,railroad station,0.0
 Cazin,seat of a third-order administrative division,21741.0
 Bou Ismail,populated place,22411.0
@@ -4088,7 +4088,7 @@ Ammi Moussa,populated place,23001.0
 Mohmand,area,0.0
 Lala Maydan,populated place,0.0
 Ndele,second-order administrative division,13704.0
-Tierralta district,"['second-order administrative division', 78770]","['second-order administrative division', 78770]"
+Tierralta district,second-order administrative division,78770
 Uthal,seat of a second-order administrative division,16483.0
 Parakkadavu,populated place,0.0
 Augusta,seat of a first-order administrative division,18471.0
@@ -4102,11 +4102,11 @@ Manar,second-order administrative division,49390.0
 Urubamba,second-order administrative division,0.0
 Cuapa,seat of a second-order administrative division,2400.0
 Fermo,seat of a second-order administrative division,18109.0
-Rashidan district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Rashidan district,second-order administrative division,0
 Gurbuz district,second-order administrative division,0.0
 Milagros,second-order administrative division,22066.0
 Moledji,,
-Rozhnyativ district,"['seat of a second-order administrative division', 3983]","['seat of a second-order administrative division', 3983]"
+Rozhnyativ district,seat of a second-order administrative division,3983
 Labateca,second-order administrative division,5852.0
 Kofarnikhon,seat of a second-order administrative division,45693.0
 Oratorio de Concepcion,populated place,0.0
@@ -4126,7 +4126,7 @@ Bonanza,reef,0.0
 Carrara,seat of a third-order administrative division,58666.0
 Madera Negra,island,0.0
 Bureij,populated place,34951.0
-Baskale district,"['second-order administrative division', 58963]","['second-order administrative division', 58963]"
+Baskale district,second-order administrative division,58963
 Passau,seat of a third-order administrative division,50560.0
 Bintagoungou,populated place,0.0
 Kanchanpur district,third-order administrative division,432167.0
@@ -4134,22 +4134,22 @@ Layyah,seat of a second-order administrative division,78954.0
 Qaysar Khel,populated place,0.0
 Kabezi,second-order administrative division,0.0
 Vuelta de Acuna,anabranch,0.0
-Kala Zal district,"['populated place', 0]","['populated place', 0]"
+Kala Zal district,populated place,0
 Pamalian,populated place,0.0
 Paranthan,populated place,0.0
 Burhakaba district,second-order administrative division,0.0
-Sunzhensky district,"[None, None]","[None, None]"
+Sunzhensky district,,
 Baraka,stream,0.0
 Huriyah,locality,0.0
 Togh Sarai,populated place,0.0
-Ghayl Ba Wazir district,"['second-order administrative division', 48831]","['second-order administrative division', 48831]"
+Ghayl Ba Wazir district,second-order administrative division,48831
 Macinaggio,populated place,561.0
 Loja,seat of a first-order administrative division,117796.0
 Villa del Rosario,seat of a second-order administrative division,64951.0
 Eden,historical first-order administrative division,0.0
 Balbalan,third-order administrative division,12195.0
 Lugela,second-order administrative division,0.0
-Haska Mena district,"['populated place', 0]","['populated place', 0]"
+Haska Mena district,populated place,0
 Magura,hill,0.0
 Paucartambo,second-order administrative division,0.0
 Zueitina,populated place,21015.0
@@ -4183,7 +4183,7 @@ Vitali,island,0.0
 Bangadi,populated place,0.0
 Bukhari Qala,populated place,0.0
 Kanisk,populated place,0.0
-Daraga district,"['seat of a third-order administrative division', 6664]","['seat of a third-order administrative division', 6664]"
+Daraga district,seat of a third-order administrative division,6664
 Nagasaki,seat of a first-order administrative division,410204.0
 Timbiqui,airport,0.0
 Chimoio,seat of a first-order administrative division,256936.0
@@ -4223,7 +4223,7 @@ Ben Zerga,populated place,0.0
 Debathgama,populated place,0.0
 Sonepat,populated place,250521.0
 Janikhel,locality,0.0
-Chegemskiy (District),"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chegemskiy (District),second-order administrative division,0
 Culiacan,seat of a first-order administrative division,675000.0
 Sufa,capital of a political entity,77366.0
 Veracruz,first-order administrative division,7058898.0
@@ -4237,7 +4237,7 @@ Walpita,fourth-order administrative division,0.0
 Zara,seat of a first-order administrative division,71258.0
 Pudukudyiruppu,,
 Eturunagaram,populated place,0.0
-Junin district,"['seat of a first-order administrative division', 376657]","['seat of a first-order administrative division', 376657]"
+Junin district,seat of a first-order administrative division,376657
 Draguignan,seat of a third-order administrative division,38573.0
 Krasnyi Lyman,second-order administrative division,22000.0
 Piro Khel,area,0.0
@@ -4245,9 +4245,9 @@ Guatape,second-order administrative division,5838.0
 Kilambe,mountain,0.0
 Sayadan,populated place,0.0
 Dhahran,populated place,99540.0
-Saba Yoi district,"['second-order administrative division', 65920]","['second-order administrative division', 65920]"
+Saba Yoi district,second-order administrative division,65920
 Prato,seat of a second-order administrative division,181820.0
-Catak district,"['populated place', 0]","['populated place', 0]"
+Catak district,populated place,0
 Finschhafen,second-order administrative division,45287.0
 Tshimbulu,populated place,0.0
 Nala Malik Din Khel,,
@@ -4256,8 +4256,8 @@ Calaocan,populated place,0.0
 Shadananda,,
 Ziama Mansouria,populated place,0.0
 Pazarcik,seat of a first-order administrative division,75977.0
-Shelkovskoy (District),"['area', 0]","['area', 0]"
-Yaftal Sufla district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Shelkovskoy (District),area,0
+Yaftal Sufla district,second-order administrative division,0
 Dispur,seat of a first-order administrative division,2000.0
 Logomani,populated place,0.0
 Columbia,independent political entity,47790000.0
@@ -4299,7 +4299,7 @@ Allacapan,seat of a third-order administrative division,3645.0
 Ourense,seat of a second-order administrative division,107742.0
 Katugastota,populated place,0.0
 Irvinestown,populated place,1765.0
-Victor Fajardo district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Victor Fajardo district,second-order administrative division,0
 Hasilpur,populated place,88031.0
 Kutumba,populated place,0.0
 Dand-e-Ghori,,
@@ -4327,7 +4327,7 @@ Kawasaki,seat of a second-order administrative division,1306785.0
 Sperwan,locality,0.0
 Mardapal,,
 Indelimane,,
-Kubang Pasu district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kubang Pasu district,second-order administrative division,0
 Wanah,populated place,0.0
 San Antonio Los Ranchos,populated place,0.0
 Tenes,second-order administrative division,0.0
@@ -4348,7 +4348,7 @@ Cerete,seat of a second-order administrative division,55513.0
 Paharpur,populated place,17294.0
 Qaimoh,,
 Cavite,populated place,115932.0
-North Garo Hills district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+North Garo Hills district,second-order administrative division,0
 Dharan,populated place,108600.0
 Topi,populated place,36340.0
 Marcabal,third-order administrative division,0.0
@@ -4368,7 +4368,7 @@ Bakin Dutse,forest reserve,0.0
 Mito,seat of a first-order administrative division,246538.0
 Carrickmore,populated place,0.0
 Simsiman,mountain,0.0
-Yarumal district,"['second-order administrative division', 41240]","['second-order administrative division', 41240]"
+Yarumal district,second-order administrative division,41240
 Zillah,area,0.0
 Grimari,second-order administrative division,16486.0
 Muzhichi,populated place,0.0
@@ -4378,16 +4378,16 @@ Stepanaket,,
 Kass district,populated place,0.0
 Setubal,seat of a first-order administrative division,117110.0
 N'dalatando,seat of a first-order administrative division,383100.0
-Sarikamis district,"['second-order administrative division', 48354]","['second-order administrative division', 48354]"
+Sarikamis district,second-order administrative division,48354
 Tudun Wada,second-order administrative division,0.0
 San Luis Talpa,second-order administrative division,0.0
-Huacho district,"['seat of a first-order administrative division', 54545]","['seat of a first-order administrative division', 54545]"
+Huacho district,seat of a first-order administrative division,54545
 Bhela,populated place,0.0
 Tubungan,third-order administrative division,22449.0
 Wadi,seat of a second-order administrative division,181212.0
 Bariarpur,populated place,14595.0
 Dumri,second-order administrative division,0.0
-Puncak Jaya district,"['peak', 0]","['peak', 0]"
+Puncak Jaya district,peak,0
 Apalit,seat of a third-order administrative division,77418.0
 Chhipadohar,forest reserve,0.0
 Santiago district,second-order administrative division,88997.0
@@ -4407,7 +4407,7 @@ Daegu,seat of a first-order administrative division,2566540.0
 Souidania,populated place,0.0
 Kabasha,hill,0.0
 Chechar,administrative division,0.0
-Bilchiragh district,"['seat of a second-order administrative division', 0]","['seat of a second-order administrative division', 0]"
+Bilchiragh district,seat of a second-order administrative division,0
 Ayzariyah,populated place,17455.0
 Vellore,populated place,177081.0
 Bwalanda,,
@@ -4418,11 +4418,11 @@ Carhuamayo,third-order administrative division,0.0
 Dundrum,populated place,12152.0
 Manzini,seat of a first-order administrative division,110537.0
 Calamba,seat of a first-order administrative division,316612.0
-Sirvan district,"['seat of a first-order administrative division', 70220]","['seat of a first-order administrative division', 70220]"
-Surkhet district,"['airport', 0]","['airport', 0]"
+Sirvan district,seat of a first-order administrative division,70220
+Surkhet district,airport,0
 Muradiyah,populated place,0.0
-San Martin de Paras district,"['populated place', 0]","['populated place', 0]"
-Pur Chaman district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+San Martin de Paras district,populated place,0
+Pur Chaman district,second-order administrative division,0
 Deo,locality,0.0
 Macasampen,,
 Musayi district,populated place,0.0
@@ -4481,7 +4481,7 @@ Pariya,populated place,0.0
 Handarat,populated place,0.0
 Yanta,seat of a third-order administrative division,79196.0
 Qurghonteppa,seat of a first-order administrative division,65000.0
-Kohi Safi district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kohi Safi district,second-order administrative division,0
 Folweni,section of populated place,0.0
 Madalla,populated place,11771.0
 Nahalin,,
@@ -4514,11 +4514,11 @@ Ragay,seat of a third-order administrative division,9000.0
 Braintree,populated place,53477.0
 Ambar,locality,0.0
 Kholu,populated place,0.0
-Rueso Narathiwat district,"['second-order administrative division', 60595]","['second-order administrative division', 60595]"
+Rueso Narathiwat district,second-order administrative division,60595
 Gadiang,,
-Calamar district,"['second-order administrative division', 11183]","['second-order administrative division', 11183]"
+Calamar district,second-order administrative division,11183
 Ercis,seat of a second-order administrative division,91915.0
-Elbeyli district,"['populated place', 2569]","['populated place', 2569]"
+Elbeyli district,populated place,2569
 Jangal Aregh,populated place,0.0
 Balete,seat of a third-order administrative division,8662.0
 Krishnapur,populated place,0.0
@@ -4529,11 +4529,11 @@ Kohsan,seat of a second-order administrative division,12087.0
 Sultankhel,populated place,0.0
 Kyangwali,fourth-order administrative division,0.0
 Meegalawa,,
-Shibam district,"['populated place', 0]","['populated place', 0]"
+Shibam district,populated place,0
 Sehwan,populated place,41150.0
 El Poy,populated place,0.0
 San Joaquin,seat of a second-order administrative division,305658.0
-Karkamis district,"['second-order administrative division', 10832]","['second-order administrative division', 10832]"
+Karkamis district,second-order administrative division,10832
 Baraya,second-order administrative division,9179.0
 Vegalarga,populated place,0.0
 Machkund,stream,0.0
@@ -4551,14 +4551,14 @@ Buthidaung,populated place,0.0
 Katong,nature reserve,0.0
 Kulan,populated place,0.0
 Zakhel,intermittent stream,0.0
-Robat Sangi district,"['populated place', 0]","['populated place', 0]"
+Robat Sangi district,populated place,0
 Jagun,locality,0.0
 Sassari,seat of a second-order administrative division,91895.0
 El Khemis,populated place,75865.0
 Alice,populated place,25186.0
 Anori district,populated place,0.0
 Bhopal,seat of a first-order administrative division,1599914.0
-Chakhansur district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Chakhansur district,second-order administrative division,0
 Chakdara,populated place,0.0
 Dumaguete,populated place,113541.0
 Tasikmalaya,populated place,271143.0
@@ -4581,7 +4581,7 @@ Sangar,populated place,4633.0
 Venustiano Carranza,section of populated place,447459.0
 Stepanakert,populated place,53100.0
 Walnut Creek,populated place,68910.0
-Shamilskiy district,"['second-order administrative division', 26343]","['second-order administrative division', 26343]"
+Shamilskiy district,second-order administrative division,26343
 Hambagda,third-order administrative division,0.0
 Fuwwah,populated place,63310.0
 Coti Chiavari,populated place,509.0
@@ -4614,21 +4614,21 @@ Sokode,seat of a first-order administrative division,117811.0
 Fadan Karshi,populated place,0.0
 Talwandi Bhai,populated place,16391.0
 LIma,capital of a political entity,7737002.0
-Herault district,"['second-order administrative division', 1050026]","['second-order administrative division', 1050026]"
+Herault district,second-order administrative division,1050026
 Khwezai,,
 Kumbotso,second-order administrative division,0.0
 Spin Jumat,mountain,0.0
 Diriamba,seat of a second-order administrative division,35008.0
-Disho district,"['lake', 0]","['lake', 0]"
+Disho district,lake,0
 Ouled Brahim,tribal area,0.0
-Muradiye district,"['second-order administrative division', 51340]","['second-order administrative division', 51340]"
+Muradiye district,second-order administrative division,51340
 Shavei Shomron,,
 Caddow Dibille,,
 Ustaritz,populated place,5662.0
 Mbale,seat of a second-order administrative division,76493.0
 Kayo Mati,,
 Angunukolapalessa,,
-Lashkar Gah district,"['seat of a first-order administrative division', 43934]","['seat of a first-order administrative division', 43934]"
+Lashkar Gah district,seat of a first-order administrative division,43934
 Bogazoren,populated place,1323.0
 Vernon,populated place,26037.0
 Guayana City,seat of a second-order administrative division,746535.0
@@ -4658,7 +4658,7 @@ Tenth of Ramadan,populated place,0.0
 Saihat,populated place,66702.0
 Kibleg,populated place,0.0
 Hamdaniyah,populated place,0.0
-Waeng (District),"['second-order administrative division', 38388]","['second-order administrative division', 38388]"
+Waeng (District),second-order administrative division,38388
 Juticalpa,seat of a first-order administrative division,33686.0
 Templepatrick,populated place,1627.0
 Auckland,seat of a first-order administrative division,417910.0
@@ -4682,7 +4682,7 @@ Kot Azam,populated place,0.0
 Pitu Mudi,,
 Rhodes,first-order administrative division,51829.0
 Copiapo,seat of a first-order administrative division,129280.0
-Tatvan district,"['seat of a second-order administrative division', 73222]","['seat of a second-order administrative division', 73222]"
+Tatvan district,seat of a second-order administrative division,73222
 Puerto Lopez,second-order administrative division,28790.0
 Potoru,populated place,4937.0
 Regi,area,0.0
@@ -4721,10 +4721,10 @@ Huaylas,second-order administrative division,0.0
 Planeta Rica,populated place,37297.0
 Majdal Anjar,populated place,0.0
 Fivemiletown,populated place,1109.0
-Cangallo district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Cangallo district,second-order administrative division,0
 Caato,populated place,0.0
-Ukum district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
-Shelkovskoy district,"['area', 0]","['area', 0]"
+Ukum district,second-order administrative division,0
+Shelkovskoy district,area,0
 Cardiff,seat of a first-order administrative division,447287.0
 Dufair,,
 Tashan Alade,,
@@ -4737,8 +4737,8 @@ Bishenpur,populated place,0.0
 Isla Vista,locality,0.0
 Dir district,second-order administrative division,0.0
 Shilo,populated place,0.0
-Algeciras district,"['seat of a third-order administrative division', 116209]","['seat of a third-order administrative division', 116209]"
-Belen de Umbria district,"['second-order administrative division', 27717]","['second-order administrative division', 27717]"
+Algeciras district,seat of a third-order administrative division,116209
+Belen de Umbria district,second-order administrative division,27717
 Manati,first-order administrative division,44113.0
 Ban Taba,,
 Sibuco,seat of a third-order administrative division,3327.0
@@ -4755,7 +4755,7 @@ Freital,populated place,39027.0
 Tocoa,second-order administrative division,53191.0
 Madhabdi district,fourth-order administrative division,0.0
 Bazargan,populated place,0.0
-Nazimiye district,"['second-order administrative division', 3456]","['second-order administrative division', 3456]"
+Nazimiye district,second-order administrative division,3456
 Abisinia,populated place,0.0
 Bhamragad,,
 Al-Birth,church,0.0
@@ -4778,7 +4778,7 @@ Musian,populated place,0.0
 Ruacana,airport,0.0
 Malasila,populated place,5864.0
 Dromore,populated place,218.0
-Quibdo district,"['seat of a first-order administrative division', 75104]","['seat of a first-order administrative division', 75104]"
+Quibdo district,seat of a first-order administrative division,75104
 Bekasi,populated place,1520119.0
 Amatitan Arriba,populated place,0.0
 Shrewsbury,seat of a second-order administrative division,71715.0
@@ -4794,21 +4794,21 @@ Ben Choud,populated place,0.0
 La Gallinera,populated place,0.0
 Hanau,seat of a fourth-order administrative division,88648.0
 Matanza,populated place,1669.0
-Registan district,"['region', 0]","['region', 0]"
+Registan district,region,0
 Puerto Sandino,populated place,0.0
 Maharagama,populated place,66576.0
 Sandaouadjiri,populated place,0.0
 Spin Ghar,mountains,0.0
-Sergokalinsky  (District),"[None, None]","[None, None]"
+Sergokalinsky  (District),,
 Khan,seat of a second-order administrative division,788915.0
-Aleosan district,"['third-order administrative division', 39405]","['third-order administrative division', 39405]"
-Mando Zayi district,"[None, None]","[None, None]"
+Aleosan district,third-order administrative division,39405
+Mando Zayi district,,
 Luq,mountain,0.0
 Lawaan,populated place,0.0
 Malabog,fourth-order administrative division,0.0
 Groningen,seat of a first-order administrative division,181194.0
 La Gloria,second-order administrative division,14586.0
-El Castillo district,"['second-order administrative division', 6875]","['second-order administrative division', 6875]"
+El Castillo district,second-order administrative division,6875
 Bojaya,second-order administrative division,9941.0
 Srirampur,populated place,0.0
 Tacachico,populated place,3033.0
@@ -4824,7 +4824,7 @@ Ummarari,,
 Varna,seat of a first-order administrative division,312770.0
 Siberia,region,0.0
 Tubigan,populated place,0.0
-Curumani district,"['seat of a second-order administrative division', 22084]","['seat of a second-order administrative division', 22084]"
+Curumani district,seat of a second-order administrative division,22084
 Balumath,populated place,0.0
 Papeete,capital of a political entity,26357.0
 Zakar Khel,populated place,0.0
@@ -4839,7 +4839,7 @@ Catete,second-order administrative division,9222.0
 Kharprakhol,,
 Brokopondo,seat of a first-order administrative division,14662.0
 Pedarak,,
-Telpaneca district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Telpaneca district,second-order administrative division,0
 Bue Re,populated place,0.0
 Incheon,seat of a first-order administrative division,2628000.0
 Palliyagodella,locality,0.0
@@ -4861,7 +4861,7 @@ Paletara,valley,0.0
 Damous,populated place,0.0
 Har Bracha,,
 Mukoko,populated place,0.0
-Hacari district,"['second-order administrative division', 10121]","['second-order administrative division', 10121]"
+Hacari district,second-order administrative division,10121
 Sandah,populated place,0.0
 Sayid Gharib,,
 Pagadian City,seat of a first-order administrative division,186852.0
@@ -4874,8 +4874,8 @@ Wilpattu,park,0.0
 Liborina,second-order administrative division,9475.0
 Kotli,seat of a second-order administrative division,640000.0
 Hilltown,populated place,0.0
-Rolpa district,"['region', 0]","['region', 0]"
-Than To (District),"['second-order administrative division', 18552]","['second-order administrative division', 18552]"
+Rolpa district,region,0
+Than To (District),second-order administrative division,18552
 Cambrils,populated place,32422.0
 Dmytrivka,populated place,0.0
 Dragas,peak,0.0
@@ -4934,13 +4934,13 @@ Longview,seat of a second-order administrative division,82287.0
 Kralagund,populated place,0.0
 Takhta Pul,populated place,0.0
 Hammarasdale,,
-Rueso ((District)),"['second-order administrative division', 60595]","['second-order administrative division', 60595]"
+Rueso ((District)),second-order administrative division,60595
 Ngora,second-order administrative division,0.0
 Khwaja Umari,,
 Trnovi,populated place,0.0
 Lata,seat of a first-order administrative division,553.0
 Chia,populated place,148113.0
-Hakkari district,"['first-order administrative division', 273041]","['first-order administrative division', 273041]"
+Hakkari district,first-order administrative division,273041
 Palai,area,0.0
 Zawa,area,0.0
 Joh I Rong,,
@@ -4981,7 +4981,7 @@ Kuldan,populated place,0.0
 Lakshmipur,populated place,61703.0
 Hirkse,,
 Am Dafok,populated place,0.0
-Kamjong district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kamjong district,second-order administrative division,0
 Barberton,seat of a third-order administrative division,67927.0
 Buga district,populated place,0.0
 Weligama,populated place,22179.0
@@ -5007,7 +5007,7 @@ Cuyotenango,second-order administrative division,0.0
 Ataikula,populated place,0.0
 Chakwal,seat of a second-order administrative division,101200.0
 El Troncal,populated place,0.0
-Khwaja Du Koh district,"['populated place', 0]","['populated place', 0]"
+Khwaja Du Koh district,populated place,0
 Tangail district,populated place,180144.0
 Wafa,park,0.0
 Canasgordas,second-order administrative division,16816.0
@@ -5015,7 +5015,7 @@ Aduwari,populated locality,0.0
 Pasuquin,seat of a third-order administrative division,5768.0
 Cabadbaran,populated place,31114.0
 Marte district,military installation,0.0
-Tirkit district,"[None, None]","[None, None]"
+Tirkit district,,
 Yari,locality,0.0
 Maguiresbridge,,
 Kislovodsk,populated place,132771.0
@@ -5032,13 +5032,13 @@ Saint Denis,capital of a political entity,137195.0
 Ladia,populated place,0.0
 Singen,populated place,45696.0
 Al-Khader,wadi,0.0
-Kushki Kuhna district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Kushki Kuhna district,second-order administrative division,0
 Kulangar,populated place,0.0
 El Cedro,locality,0.0
 Mirhama,,
 Zapopan,seat of a second-order administrative division,987516.0
 Ramnagar,second-order administrative division,0.0
-Welikanda district,"['populated place', 0]","['populated place', 0]"
+Welikanda district,populated place,0
 Makeni,seat of a first-order administrative division,87679.0
 Thakurgaon,populated place,71096.0
 Picota,second-order administrative division,0.0
@@ -5061,7 +5061,7 @@ Zain Loti,,
 Al-Awamiyah,populated place,0.0
 Garhi,populated place,13666.0
 Tercer Pueblo,hotel,0.0
-Baghran district,"['populated place', 0]","['populated place', 0]"
+Baghran district,populated place,0
 Kegalle,populated place,17962.0
 Pasajes de San Pedro,populated place,0.0
 Rodriguez,first-order administrative division,59629.0
@@ -5075,7 +5075,7 @@ Oleksandrivsk,populated place,0.0
 Muhammad Agha district,populated place,0.0
 Telpaneca,second-order administrative division,0.0
 Saoula,populated place,16812.0
-Razih district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Razih district,second-order administrative division,0
 Bagh-e Shamal,populated place,0.0
 Jowhar district,second-order administrative division,0.0
 Ghardimaou,second-order administrative division,0.0
@@ -5086,7 +5086,7 @@ Taung,peak,0.0
 Arnhem,seat of a first-order administrative division,141674.0
 Chiara,third-order administrative division,0.0
 Khumbong,,
-Dih Sabz district,"[None, None]","[None, None]"
+Dih Sabz district,,
 Sayyad,locality,0.0
 Areovida,,
 Khudengthabi,,
@@ -5113,9 +5113,9 @@ Datu Hofer,,
 Clondalkin,populated place,14508.0
 Thane,populated place,1261517.0
 San Marcos district,populated place,0.0
-Hotan district,"['seat of a third-order administrative division', 114000]","['seat of a third-order administrative division', 114000]"
+Hotan district,seat of a third-order administrative division,114000
 Oron,populated place,112033.0
-Lakhisarai district,"['second-order administrative division', 1000912]","['second-order administrative division', 1000912]"
+Lakhisarai district,second-order administrative division,1000912
 Galgalo,populated place,0.0
 Thottipalayam,,
 Zvecan,second-order administrative division,0.0
@@ -5136,7 +5136,7 @@ Mevo Dotan,israeli settlement,0.0
 Mahayag,populated place,17144.0
 Kokab,populated place,0.0
 Lautoka,seat of a first-order administrative division,52500.0
-Nozhay-Yurtovsky (District),"[None, None]","[None, None]"
+Nozhay-Yurtovsky (District),,
 Pyuthan,seat of a third-order administrative division,0.0
 Sabir,second-order administrative division,100254.0
 El Roblar,locality,0.0
@@ -5150,12 +5150,12 @@ Narang district,mountain,0.0
 Los Manchones,populated place,0.0
 Fermanagh district,historical second-order administrative division,62500.0
 Kuwadzana,section of populated place,0.0
-Lubero district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Lubero district,second-order administrative division,0
 Poleglass,,
 Ueken,populated place,0.0
 Ghaljo,populated place,0.0
 Chandrapura,populated place,0.0
-Cienaga district,"['lake', 0]","['lake', 0]"
+Cienaga district,seat of a second-order administrative division,88311
 Araibo,fourth-order administrative division,0.0
 Mama Khel,seat of a second-order administrative division,0.0
 Sultan sa Barongis,third-order administrative division,22425.0
@@ -5198,13 +5198,13 @@ Kufra,first-order administrative division,55690.0
 Mangaize,populated place,0.0
 Sahel Boubarak,,
 Tabda,populated place,0.0
-Ocana district,"['seat of a second-order administrative division', 83511]","['seat of a second-order administrative division', 83511]"
+Ocana district,seat of a second-order administrative division,83511
 Mazbat,populated place,0.0
 El Corozo,locality,0.0
 Mondomo,populated place,0.0
 Jallam,locality,0.0
 Durgapur,second-order administrative division,0.0
-Ruyi Du Ab district,"[None, None]","[None, None]"
+Ruyi Du Ab district,,
 Jamaslan,,
 Koulfoua,,
 Leicester,seat of a second-order administrative division,508916.0
@@ -5212,18 +5212,18 @@ Comayaguela,populated place,0.0
 Tamara,second-order administrative division,7118.0
 Chinene,populated place,0.0
 Kimlawis,,
-Prigorodny district,"['third-order administrative division', 0]","['third-order administrative division', 0]"
+Prigorodny district,third-order administrative division,0
 Navatkuli,populated place,0.0
-Zalingei district,"['seat of a first-order administrative division', 28687]","['seat of a first-order administrative division', 28687]"
+Zalingei district,seat of a first-order administrative division,28687
 Aouf,populated place,0.0
 Safrah,locality,0.0
 Baridih,populated place,0.0
 Lagonglong,seat of a third-order administrative division,9043.0
-Sungai Padi (District),"['second-order administrative division', 48153]","['second-order administrative division', 48153]"
+Sungai Padi (District),second-order administrative division,48153
 Matarani,port,0.0
 Samashki,populated place,10848.0
 Morococha,mountain,0.0
-Hesarak district,"['populated place', 0]","['populated place', 0]"
+Hesarak district,populated place,0
 Union,first-order administrative division,263271.0
 El Centro,populated place,0.0
 Bia,peak,0.0
@@ -5251,7 +5251,7 @@ Santa Cruz Verapaz,second-order administrative division,0.0
 Surrey,region,0.0
 chittagong,seat of a first-order administrative division,3920222.0
 Quipile,second-order administrative division,8217.0
-Nadir Shah Kot district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Nadir Shah Kot district,second-order administrative division,0
 Lejanias,second-order administrative division,9558.0
 Okinawa,first-order administrative division,1416587.0
 Jhargram district,populated place,0.0
@@ -5259,7 +5259,7 @@ Sitakunda,populated place,0.0
 Lambayong,populated place,11009.0
 Albu Tumah,,
 Tika,locality,0.0
-Kayapinar district,"['second-order administrative division', 277489]","['second-order administrative division', 277489]"
+Kayapinar district,second-order administrative division,277489
 Ermelo,populated place,10255.0
 Chowka More,,
 San Pablo City,populated place,207577.0
@@ -5289,7 +5289,7 @@ Bayt Jala,housing development,0.0
 Khalde,populated place,0.0
 Aceh,seat of a first-order administrative division,250757.0
 Shalghamay,populated place,0.0
-Sholgara district,"['second-order administrative division', 0]","['second-order administrative division', 0]"
+Sholgara district,second-order administrative division,0
 Bori,seat of a first-order administrative division,26782.0
 Beit Safafa,populated place,0.0
 Kamuya,hill,0.0
@@ -5297,7 +5297,7 @@ Sarkol,lake,0.0
 Mangaluru,populated place,417387.0
 Tsakane,populated place,0.0
 Zaida,populated place,26787.0
-Pitalito district,"['populated place', 53685]","['populated place', 53685]"
+Pitalito district,populated place,53685
 Witu,populated place,5380.0
 Gumsuri,populated place,0.0
 Magumeri,second-order administrative division,0.0
@@ -5311,7 +5311,7 @@ Obe,area,0.0
 Maroua,seat of a first-order administrative division,319941.0
 Gokulnagar,populated place,0.0
 Sarpol-e Zahab,seat of a second-order administrative division,51611.0
-Taraza district,"['second-order administrative division', 32943]","['second-order administrative division', 32943]"
+Taraza district,second-order administrative division,32943
 Sipah,ridge(s),0.0
 Stalskoye,populated place,0.0
 Agrigento,seat of a second-order administrative division,32514.0
@@ -5331,7 +5331,7 @@ Zemio,airport,0.0
 Dainadubi,populated place,0.0
 Chaghcharan,second-order administrative division,0.0
 Bahcesaray,second-order administrative division,16819.0
-Bardere district,"['populated place', 0]","['populated place', 0]"
+Bardere district,populated place,0
 Arecibo,seat of a first-order administrative division,49318.0
 Gaberi,populated place,0.0
 Guaynabo,seat of a first-order administrative division,81360.0
@@ -5371,7 +5371,7 @@ Farisiyah,area,0.0
 Shewa,second-order administrative division,1431305.0
 Oroya,seat of a third-order administrative division,33345.0
 Elbasan,seat of a first-order administrative division,100903.0
-Pontal de Paranapanema district,"[None, None]","[None, None]"
+Pontal de Paranapanema district,,
 Monastir,seat of a first-order administrative division,71546.0
 Tal Ali,locality,0.0
 Arayat,seat of a third-order administrative division,87987.0
@@ -5379,7 +5379,7 @@ Tonka,independent political entity,122580.0
 Umuahia,seat of a first-order administrative division,264662.0
 Hardan,populated place,0.0
 Anjan,seat of a second-order administrative division,781129
-Vegalarga district,"['populated place', 0]","['populated place', 0]"
+Vegalarga district,populated place,0
 Adina,populated place,0
 Burambi,second-order administrative division,0
 Kallady,populated place,0
@@ -5398,7 +5398,7 @@ Dorado,first-order administrative division,38165
 Vishakhapatnam,seat of a second-order administrative division,1063178
 Vilkhove,populated place,0
 Bethesda,populated place,0
-Shikarpur district,second-order administrative division,0
+Shikarpur district,seat of a second-order administrative division,156901
 Datu Montawal,,
 Laurel,seat of a second-order administrative division,8126
 Oued Chorfa,populated place,0
@@ -5406,16 +5406,16 @@ Morur,populated place,0
 Garsila,populated place,0
 Gandaher,populated place,0
 Narayanpatna,,
-Gao district,third-order administrative division,0
+Gao district,seat of a first-order administrative division,87000
 Morelia,seat of a first-order administrative division,592797
 Zabadani,second-order administrative division,0
 Atambua,seat of a second-order administrative division,35793
 Purace,second-order administrative division,14970
 Sogratl,populated place,0
-Obi district,islet,0
+Obi district,populated place,44564
 Belen de los Andaquies,second-order administrative division,11081
 Baixada Fluminese,,
-Huamachuco district,"['seat of a third-order administrative division', 21768]","['seat of a third-order administrative division', 21768]"
+Huamachuco district,seat of a third-order administrative division,21768
 Ouriacha,populated place,0
 Langting,populated place,0
 Nyanza-Lac,second-order administrative division,0
@@ -5424,7 +5424,7 @@ Souanine,hill,0
 Asyud,populated place,0
 Mataram,seat of a first-order administrative division,318674
 Nabi Sheet,,
-Dujail district,"['populated place', 26362]","['populated place', 26362]"
+Dujail district,populated place,26362
 Birbanki,populated place,0
 Roumieh,,
 Dalwa,locality,0
@@ -5445,20 +5445,20 @@ Shah Kas,populated place,0
 Mohnyin,second-order administrative division,0
 Janbazpora,,
 Har Dov,,
-Guadalupe district,populated place,1193161
+Guadalupe district,dependent political entity,443000
 Barahathawa,administrative division,0
 Mahus,locality,0
 Ziarat-e Khvajeh Owrya,shrine,0
 Gurbulak,populated place,0
 Hassan Khel,populated place,0
 Katekalyan,populated place,0
-Jalai district,populated place,0
+Jalai district,seat of a fourth-order administrative division,107828
 Amarliya,populated place,0
-Datu Unsay district,"['third-order administrative division', 11813]","['third-order administrative division', 11813]"
+Datu Unsay district,third-order administrative division,11813
 Tecapan,populated place,0
 Ahmadiyeh,populated place,0
 Pullman,populated place,32816
-Derik district,second-order administrative division,0
+Derik district,second-order administrative division,61226
 Mo Mawi,populated place,0
 Behiang,,
 Bachit,forest reserve,0
@@ -5473,13 +5473,13 @@ Ovejas,second-order administrative division,0
 Sevare,populated place,0
 San Pedro de Macoris,seat of a first-order administrative division,217899
 Kandi,seat of a first-order administrative division,109701
-Karimanagar district,"[None, None]","[None, None]"
+Karimanagar district,,
 Gharibabad,populated place,0
 Santhiveli,populated place,0
 Glendale,populated place,240126
 Nikopol,seat of a second-order administrative division,130500
 Lubbock,seat of a second-order administrative division,249042
-Pailitas district,"['seat of a second-order administrative division', 10480]","['seat of a second-order administrative division', 10480]"
+Pailitas district,seat of a second-order administrative division,10480
 Ergneti,populated place,500
 Shah Mansur,populated place,0
 Altamur,locality,0
@@ -5488,7 +5488,7 @@ Rovira,populated place,6949
 Ataghar,seat of a second-order administrative division,0
 Sultan Kudarat,second-order administrative division,675644
 Krarib,hill,0
-South Tripura district,"['second-order administrative division', 876001]","['second-order administrative division', 876001]"
+South Tripura district,second-order administrative division,876001
 Ogbia,second-order administrative division,0
 Cayamcam,populated place,0
 Port Vila,capital of a political entity,35901
@@ -5517,20 +5517,20 @@ Ormoc,seat of a third-order administrative division,191200
 Bendery,seat of a first-order administrative division,110175
 Sudan-Safari,,
 Ama Khel,populated place,0
-Siasi district,populated place,0
+Siasi district,populated place,12566
 Batpora,,
 Tabaj,populated place,56
 Tagbina,seat of a third-order administrative division,10672
-Matara District,second-order administrative division,761061
+Matara District,populated place,76254
 Afmadow district,second-order administrative division,0
-Sonebhadra district,"[None, None]","[None, None]"
+Sonebhadra district,,
 Nutibara,hill,0
 Kiamba,seat of a third-order administrative division,10979
 Puerto Nare,populated place,0
 Avdiyivka,populated place,2012
 Sangrama,,
 Kandi Bagh,populated place,0
-Kurchaloyevsky (District),"[None, None]","[None, None]"
+Kurchaloyevsky (District),,
 Onne,lake,0
 Mazer,locality,0
 Dapitan,populated place,50514
